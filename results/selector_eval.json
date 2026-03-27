@@ -1,0 +1,9 @@
+{
+  "n_examples": 500,
+  "rag_baseline_acc": 0.926,
+  "ours_baseline_acc": 0.912,
+  "selector_cv_acc": 0.914,
+  "oracle_upper_bound_acc": 0.95,
+  "choose_ours_rate": 0.246,
+  "folds": 5
+}

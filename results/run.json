@@ -1,0 +1,9656 @@
+{
+  "num_samples": 500,
+  "seed": 42,
+  "test_indices_order": [
+    588,
+    1214,
+    57,
+    906,
+    1252,
+    618,
+    599,
+    289,
+    608,
+    400,
+    237,
+    616,
+    672,
+    1132,
+    463,
+    222,
+    945,
+    238,
+    730,
+    55,
+    772,
+    176,
+    15,
+    66,
+    479,
+    896,
+    1122,
+    1005,
+    480,
+    187,
+    275,
+    868,
+    921,
+    562,
+    1082,
+    172,
+    770,
+    1191,
+    413,
+    537,
+    1154,
+    1308,
+    454,
+    280,
+    177,
+    923,
+    677,
+    1176,
+    21,
+    970,
+    356,
+    100,
+    132,
+    364,
+    969,
+    1273,
+    143,
+    442,
+    464,
+    1089,
+    259,
+    90,
+    998,
+    989,
+    22,
+    586,
+    756,
+    1261,
+    296,
+    383,
+    709,
+    1069,
+    1141,
+    179,
+    731,
+    1241,
+    371,
+    107,
+    1115,
+    851,
+    303,
+    535,
+    544,
+    374,
+    387,
+    434,
+    706,
+    347,
+    811,
+    35,
+    892,
+    314,
+    2,
+    944,
+    687,
+    1184,
+    297,
+    1068,
+    792,
+    932,
+    405,
+    863,
+    953,
+    49,
+    474,
+    410,
+    705,
+    528,
+    220,
+    1299,
+    1212,
+    368,
+    926,
+    243,
+    56,
+    889,
+    1234,
+    69,
+    1157,
+    1193,
+    1293,
+    749,
+    1054,
+    269,
+    812,
+    1143,
+    192,
+    623,
+    678,
+    382,
+    207,
+    848,
+    428,
+    622,
+    1213,
+    847,
+    44,
+    658,
+    591,
+    342,
+    1024,
+    1251,
+    439,
+    491,
+    856,
+    547,
+    1224,
+    346,
+    655,
+    1188,
+    272,
+    231,
+    578,
+    113,
+    1245,
+    999,
+    844,
+    1150,
+    1194,
+    73,
+    628,
+    773,
+    910,
+    1108,
+    1135,
+    967,
+    160,
+    585,
+    1210,
+    745,
+    1281,
+    328,
+    796,
+    524,
+    874,
+    1172,
+    738,
+    1072,
+    615,
+    845,
+    1259,
+    875,
+    661,
+    1102,
+    640,
+    134,
+    188,
+    112,
+    751,
+    612,
+    1301,
+    1071,
+    32,
+    943,
+    126,
+    651,
+    1014,
+    1163,
+    846,
+    97,
+    510,
+    121,
+    190,
+    990,
+    11,
+    914,
+    1107,
+    298,
+    886,
+    1246,
+    540,
+    982,
+    581,
+    783,
+    673,
+    1238,
+    261,
+    531,
+    1167,
+    983,
+    1110,
+    580,
+    901,
+    942,
+    681,
+    526,
+    125,
+    423,
+    1026,
+    888,
+    214,
+    1215,
+    978,
+    498,
+    1070,
+    525,
+    68,
+    1148,
+    818,
+    828,
+    402,
+    771,
+    202,
+    1288,
+    1075,
+    522,
+    894,
+    34,
+    1129,
+    1147,
+    1056,
+    153,
+    235,
+    48,
+    492,
+    871,
+    869,
+    1004,
+    241,
+    489,
+    212,
+    536,
+    887,
+    587,
+    1091,
+    78,
+    427,
+    455,
+    367,
+    1179,
+    750,
+    974,
+    473,
+    981,
+    1049,
+    395,
+    1128,
+    62,
+    583,
+    576,
+    807,
+    67,
+    898,
+    631,
+    1198,
+    1007,
+    726,
+    721,
+    185,
+    325,
+    1204,
+    512,
+    1240,
+    804,
+    277,
+    784,
+    263,
+    571,
+    59,
+    852,
+    1303,
+    763,
+    829,
+    515,
+    18,
+    1097,
+    1313,
+    354,
+    1060,
+    210,
+    168,
+    1185,
+    613,
+    1048,
+    170,
+    485,
+    790,
+    462,
+    1002,
+    780,
+    667,
+    299,
+    92,
+    1262,
+    714,
+    702,
+    823,
+    89,
+    1016,
+    575,
+    988,
+    917,
+    300,
+    294,
+    779,
+    46,
+    1290,
+    1218,
+    1003,
+    950,
+    221,
+    605,
+    1076,
+    803,
+    494,
+    252,
+    857,
+    256,
+    1045,
+    1256,
+    1254,
+    239,
+    733,
+    700,
+    381,
+    822,
+    386,
+    157,
+    84,
+    1174,
+    376,
+    72,
+    1106,
+    960,
+    331,
+    419,
+    1283,
+    1006,
+    1181,
+    101,
+    1027,
+    893,
+    401,
+    659,
+    1058,
+    708,
+    935,
+    508,
+    1095,
+    482,
+    361,
+    147,
+    1041,
+    16,
+    624,
+    711,
+    304,
+    513,
+    1228,
+    1282,
+    1001,
+    396,
+    38,
+    560,
+    1028,
+    122,
+    80,
+    739,
+    1169,
+    1017,
+    912,
+    320,
+    991,
+    557,
+    50,
+    1227,
+    872,
+    1081,
+    755,
+    1009,
+    715,
+    762,
+    697,
+    937,
+    883,
+    820,
+    831,
+    959,
+    397,
+    115,
+    839,
+    404,
+    483,
+    310,
+    213,
+    880,
+    1021,
+    60,
+    809,
+    1131,
+    155,
+    979,
+    786,
+    76,
+    1065,
+    719,
+    975,
+    1051,
+    295,
+    37,
+    459,
+    205,
+    33,
+    420,
+    58,
+    603,
+    816,
+    602,
+    665,
+    1159,
+    174,
+    654,
+    1042,
+    690,
+    1121,
+    782,
+    662,
+    860,
+    963,
+    1120,
+    385,
+    842,
+    1289,
+    1087,
+    1015,
+    149,
+    699,
+    1084,
+    1192,
+    1046,
+    1123,
+    903,
+    913,
+    7,
+    716,
+    91,
+    184,
+    1050,
+    1053,
+    99,
+    426,
+    1162,
+    144,
+    660,
+    951,
+    1276,
+    520,
+    1066,
+    684,
+    825,
+    933,
+    1077,
+    568,
+    962,
+    1216,
+    390,
+    732,
+    554,
+    1047,
+    503
+  ],
+  "methods": {
+    "ours": {
+      "accuracy": 0.9066666666666666,
+      "correct": 272,
+      "total": 300,
+      "total_tokens": 708854,
+      "avg_tokens_per_problem": 2362.846666666667,
+      "wall_seconds": 5557.516147417002,
+      "incomplete": true,
+      "completed_examples": 300
+    },
+    "rag": {
+      "accuracy": 0.926,
+      "correct": 463,
+      "total": 500,
+      "total_tokens": 404584,
+      "avg_tokens_per_problem": 809.168,
+      "wall_seconds": 1162.3223405000026
+    },
+    "zeroshot": {
+      "accuracy": 0.918,
+      "correct": 459,
+      "total": 500,
+      "total_tokens": 196594,
+      "avg_tokens_per_problem": 393.188,
+      "wall_seconds": 1237.2388429579878
+    }
+  },
+  "config": {
+    "model": "gpt-4o-mini",
+    "llm_base_url": "https://hk.uniapi.io/v1",
+    "generator_temperature": 0.3,
+    "critic_temperature": 0.0,
+    "judge_temperature": 0.0,
+    "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+    "top_k": 3,
+    "debate_rounds": 1,
+    "retain": false,
+    "checkpoint_every": 10,
+    "full_test": false,
+    "strong_constraints": false
+  },
+  "per_example": {
+    "zeroshot": [
+      {
+        "test_index": 588,
+        "gold": "52",
+        "pred": "52",
+        "correct": true,
+        "tokens": 310
+      },
+      {
+        "test_index": 1214,
+        "gold": "5",
+        "pred": "5",
+        "correct": true,
+        "tokens": 333
+      },
+      {
+        "test_index": 57,
+        "gold": "83",
+        "pred": "83",
+        "correct": true,
+        "tokens": 392
+      },
+      {
+        "test_index": 906,
+        "gold": "10",
+        "pred": "4",
+        "correct": false,
+        "tokens": 415
+      },
+      {
+        "test_index": 1252,
+        "gold": "70",
+        "pred": "70",
+        "correct": true,
+        "tokens": 366
+      },
+      {
+        "test_index": 618,
+        "gold": "36",
+        "pred": "36",
+        "correct": true,
+        "tokens": 468
+      },
+      {
+        "test_index": 599,
+        "gold": "48",
+        "pred": "48",
+        "correct": true,
+        "tokens": 334
+      },
+      {
+        "test_index": 289,
+        "gold": "16",
+        "pred": "16",
+        "correct": true,
+        "tokens": 335
+      },
+      {
+        "test_index": 608,
+        "gold": "8",
+        "pred": "8",
+        "correct": true,
+        "tokens": 328
+      },
+      {
+        "test_index": 400,
+        "gold": "48",
+        "pred": "48",
+        "correct": true,
+        "tokens": 211
+      },
+      {
+        "test_index": 237,
+        "gold": "90",
+        "pred": "90",
+        "correct": true,
+        "tokens": 185
+      },
+      {
+        "test_index": 616,
+        "gold": "10",
+        "pred": "10",
+        "correct": true,
+        "tokens": 234
+      },
+      {
+        "test_index": 672,
+        "gold": "2",
+        "pred": "0",
+        "correct": false,
+        "tokens": 514
+      },
+      {
+        "test_index": 1132,
+        "gold": "45000",
+        "pred": "45000",
+        "correct": true,
+        "tokens": 449
+      },
+      {
+        "test_index": 463,
+        "gold": "18",
+        "pred": "18",
+        "correct": true,
+        "tokens": 248
+      },
+      {
+        "test_index": 222,
+        "gold": "140",
+        "pred": "140",
+        "correct": true,
+        "tokens": 282
+      },
+      {
+        "test_index": 945,
+        "gold": "17",
+        "pred": "17",
+        "correct": true,
+        "tokens": 488
+      },
+      {
+        "test_index": 238,
+        "gold": "68",
+        "pred": "68",
+        "correct": true,
+        "tokens": 286
+      },
+      {
+        "test_index": 730,
+        "gold": "8",
+        "pred": "8",
+        "correct": true,
+        "tokens": 293
+      },
+      {
+        "test_index": 55,
+        "gold": "14",
+        "pred": "14",
+        "correct": true,
+        "tokens": 253
+      },
+      {
+        "test_index": 772,
+        "gold": "50",
+        "pred": "50",
+        "correct": true,
+        "tokens": 506
+      },
+      {
+        "test_index": 176,
+        "gold": "100",
+        "pred": "100",
+        "correct": true,
+        "tokens": 352
+      },
+      {
+        "test_index": 15,
+        "gold": "125",
+        "pred": "125",
+        "correct": true,
+        "tokens": 580
+      },
+      {
+        "test_index": 66,
+        "gold": "48",
+        "pred": "48",
+        "correct": true,
+        "tokens": 471
+      },
+      {
+        "test_index": 479,
+        "gold": "15400",
+        "pred": "15400",
+        "correct": true,
+        "tokens": 392
+      },
+      {
+        "test_index": 896,
+        "gold": "250",
+        "pred": "250",
+        "correct": true,
+        "tokens": 268
+      },
+      {
+        "test_index": 1122,
+        "gold": "18",
+        "pred": "18",
+        "correct": true,
+        "tokens": 687
+      },
+      {
+        "test_index": 1005,
+        "gold": "1490",
+        "pred": "1490",
+        "correct": true,
+        "tokens": 459
+      },
+      {
+        "test_index": 480,
+        "gold": "11",
+        "pred": "11",
+        "correct": true,
+        "tokens": 365
+      },
+      {
+        "test_index": 187,
+        "gold": "106",
+        "pred": "106.12",
+        "correct": false,
+        "tokens": 410
+      },
+      {
+        "test_index": 275,
+        "gold": "138",
+        "pred": "138",
+        "correct": true,
+        "tokens": 426
+      },
+      {
+        "test_index": 868,
+        "gold": "15",
+        "pred": "15",
+        "correct": true,
+        "tokens": 373
+      },
+      {
+        "test_index": 921,
+        "gold": "4",
+        "pred": "4",
+        "correct": true,
+        "tokens": 333
+      },
+      {
+        "test_index": 562,
+        "gold": "82",
+        "pred": "82",
+        "correct": true,
+        "tokens": 401
+      },
+      {
+        "test_index": 1082,
+        "gold": "2",
+        "pred": "1",
+        "correct": false,
+        "tokens": 603
+      },
+      {
+        "test_index": 172,
+        "gold": "51",
+        "pred": "51",
+        "correct": true,
+        "tokens": 473
+      },
+      {
+        "test_index": 770,
+        "gold": "4",
+        "pred": "4",
+        "correct": true,
+        "tokens": 335
+      },
+      {
+        "test_index": 1191,
+        "gold": "100",
+        "pred": "100",
+        "correct": true,
+        "tokens": 348
+      },
+      {
+        "test_index": 413,
+        "gold": "25",
+        "pred": "25",
+        "correct": true,
+        "tokens": 322
+      },
+      {
+        "test_index": 537,
+        "gold": "188",
+        "pred": "188",
+        "correct": true,
+        "tokens": 406
+      },
+      {
+        "test_index": 1154,
+        "gold": "30",
+        "pred": "30",
+        "correct": true,
+        "tokens": 393
+      },
+      {
+        "test_index": 1308,
+        "gold": "30",
+        "pred": "30",
+        "correct": true,
+        "tokens": 191
+      },
+      {
+        "test_index": 454,
+        "gold": "150",
+        "pred": "240",
+        "correct": false,
+        "tokens": 264
+      },
+      {
+        "test_index": 280,
+        "gold": "7",
+        "pred": "7",
+        "correct": true,
+        "tokens": 331
+      },
+      {
+        "test_index": 177,
+        "gold": "350",
+        "pred": "350",
+        "correct": true,
+        "tokens": 590
+      },
+      {
+        "test_index": 923,
+        "gold": "2",
+        "pred": "2",
+        "correct": true,
+        "tokens": 444
+      },
+      {
+        "test_index": 677,
+        "gold": "36",
+        "pred": "36",
+        "correct": true,
+        "tokens": 323
+      },
+      {
+        "test_index": 1176,
+        "gold": "2",
+        "pred": "1",
+        "correct": false,
+        "tokens": 611
+      },
+      {
+        "test_index": 21,
+        "gold": "14",
+        "pred": "14",
+        "correct": true,
+        "tokens": 350
+      },
+      {
+        "test_index": 970,
+        "gold": "33",
+        "pred": "33",
+        "correct": true,
+        "tokens": 275
+      },
+      {
+        "test_index": 356,
+        "gold": "21",
+        "pred": "21",
+        "correct": true,
+        "tokens": 375
+      },
+      {
+        "test_index": 100,
+        "gold": "175",
+        "pred": "175",
+        "correct": true,
+        "tokens": 500
+      },
+      {
+        "test_index": 132,
+        "gold": "60",
+        "pred": "60",
+        "correct": true,
+        "tokens": 359
+      },
+      {
+        "test_index": 364,
+        "gold": "49",
+        "pred": "49",
+        "correct": true,
+        "tokens": 335
+      },
+      {
+        "test_index": 969,
+        "gold": "1800",
+        "pred": "1800",
+        "correct": true,
+        "tokens": 352
+      },
+      {
+        "test_index": 1273,
+        "gold": "27",
+        "pred": "27",
+        "correct": true,
+        "tokens": 380
+      },
+      {
+        "test_index": 143,
+        "gold": "16",
+        "pred": "16",
+        "correct": true,
+        "tokens": 407
+      },
+      {
+        "test_index": 442,
+        "gold": "49",
+        "pred": "49",
+        "correct": true,
+        "tokens": 372
+      },
+      {
+        "test_index": 464,
+        "gold": "6",
+        "pred": "6",
+        "correct": true,
+        "tokens": 291
+      },
+      {
+        "test_index": 1089,
+        "gold": "32",
+        "pred": "32",
+        "correct": true,
+        "tokens": 400
+      },
+      {
+        "test_index": 259,
+        "gold": "168",
+        "pred": "168",
+        "correct": true,
+        "tokens": 542
+      },
+      {
+        "test_index": 90,
+        "gold": "225",
+        "pred": "225",
+        "correct": true,
+        "tokens": 404
+      },
+      {
+        "test_index": 998,
+        "gold": "50",
+        "pred": "50",
+        "correct": true,
+        "tokens": 382
+      },
+      {
+        "test_index": 989,
+        "gold": "45",
+        "pred": "45",
+        "correct": true,
+        "tokens": 442
+      },
+      {
+        "test_index": 22,
+        "gold": "7",
+        "pred": "7",
+        "correct": true,
+        "tokens": 328
+      },
+      {
+        "test_index": 586,
+        "gold": "800",
+        "pred": "800",
+        "correct": true,
+        "tokens": 388
+      },
+      {
+        "test_index": 756,
+        "gold": "22",
+        "pred": "22",
+        "correct": true,
+        "tokens": 281
+      },
+      {
+        "test_index": 1261,
+        "gold": "235",
+        "pred": "235",
+        "correct": true,
+        "tokens": 483
+      },
+      {
+        "test_index": 296,
+        "gold": "3",
+        "pred": "3",
+        "correct": true,
+        "tokens": 460
+      },
+      {
+        "test_index": 383,
+        "gold": "2",
+        "pred": "2",
+        "correct": true,
+        "tokens": 525
+      },
+      {
+        "test_index": 709,
+        "gold": "3000",
+        "pred": "3000",
+        "correct": true,
+        "tokens": 505
+      },
+      {
+        "test_index": 1069,
+        "gold": "300",
+        "pred": "300",
+        "correct": true,
+        "tokens": 436
+      },
+      {
+        "test_index": 1141,
+        "gold": "20",
+        "pred": "20",
+        "correct": true,
+        "tokens": 354
+      },
+      {
+        "test_index": 179,
+        "gold": "130",
+        "pred": "130",
+        "correct": true,
+        "tokens": 278
+      },
+      {
+        "test_index": 731,
+        "gold": "1",
+        "pred": "1",
+        "correct": true,
+        "tokens": 463
+      },
+      {
+        "test_index": 1241,
+        "gold": "8",
+        "pred": "8",
+        "correct": true,
+        "tokens": 378
+      },
+      {
+        "test_index": 371,
+        "gold": "50",
+        "pred": "50",
+        "correct": true,
+        "tokens": 450
+      },
+      {
+        "test_index": 107,
+        "gold": "3",
+        "pred": "4",
+        "correct": false,
+        "tokens": 549
+      },
+      {
+        "test_index": 1115,
+        "gold": "5",
+        "pred": "5",
+        "correct": true,
+        "tokens": 320
+      },
+      {
+        "test_index": 851,
+        "gold": "110",
+        "pred": "110",
+        "correct": true,
+        "tokens": 279
+      },
+      {
+        "test_index": 303,
+        "gold": "1300",
+        "pred": "1300",
+        "correct": true,
+        "tokens": 576
+      },
+      {
+        "test_index": 535,
+        "gold": "16",
+        "pred": "16",
+        "correct": true,
+        "tokens": 265
+      },
+      {
+        "test_index": 544,
+        "gold": "80",
+        "pred": "80",
+        "correct": true,
+        "tokens": 268
+      },
+      {
+        "test_index": 374,
+        "gold": "45",
+        "pred": "45",
+        "correct": true,
+        "tokens": 423
+      },
+      {
+        "test_index": 387,
+        "gold": "36",
+        "pred": "36",
+        "correct": true,
+        "tokens": 246
+      },
+      {
+        "test_index": 434,
+        "gold": "5",
+        "pred": "5",
+        "correct": true,
+        "tokens": 507
+      },
+      {
+        "test_index": 706,
+        "gold": "9",
+        "pred": "9",
+        "correct": true,
+        "tokens": 424
+      },
+      {
+        "test_index": 347,
+        "gold": "36",
+        "pred": "36",
+        "correct": true,
+        "tokens": 296
+      },
+      {
+        "test_index": 811,
+        "gold": "60",
+        "pred": "60",
+        "correct": true,
+        "tokens": 421
+      },
+      {
+        "test_index": 35,
+        "gold": "9",
+        "pred": "9",
+        "correct": true,
+        "tokens": 336
+      },
+      {
+        "test_index": 892,
+        "gold": "1",
+        "pred": "1",
+        "correct": true,
+        "tokens": 367
+      },
+      {
+        "test_index": 314,
+        "gold": "30",
+        "pred": "30",
+        "correct": true,
+        "tokens": 445
+      },
+      {
+        "test_index": 2,
+        "gold": "70000",
+        "pred": "70000",
+        "correct": true,
+        "tokens": 353
+      },
+      {
+        "test_index": 944,
+        "gold": "34",
+        "pred": "34",
+        "correct": true,
+        "tokens": 451
+      },
+      {
+        "test_index": 687,
+        "gold": "13",
+        "pred": "25.5",
+        "correct": false,
+        "tokens": 360
+      },
+      {
+        "test_index": 1184,
+        "gold": "306",
+        "pred": "306",
+        "correct": true,
+        "tokens": 306
+      },
+      {
+        "test_index": 297,
+        "gold": "55",
+        "pred": "55",
+        "correct": true,
+        "tokens": 439
+      },
+      {
+        "test_index": 1068,
+        "gold": "24",
+        "pred": "24",
+        "correct": true,
+        "tokens": 450
+      },
+      {
+        "test_index": 792,
+        "gold": "75",
+        "pred": "75",
+        "correct": true,
+        "tokens": 316
+      },
+      {
+        "test_index": 932,
+        "gold": "24",
+        "pred": "24",
+        "correct": true,
+        "tokens": 346
+      },
+      {
+        "test_index": 405,
+        "gold": "50",
+        "pred": "50",
+        "correct": true,
+        "tokens": 567
+      },
+      {
+        "test_index": 863,
+        "gold": "110",
+        "pred": "110",
+        "correct": true,
+        "tokens": 312
+      },
+      {
+        "test_index": 953,
+        "gold": "452",
+        "pred": "452",
+        "correct": true,
+        "tokens": 607
+      },
+      {
+        "test_index": 49,
+        "gold": "30",
+        "pred": "30",
+        "correct": true,
+        "tokens": 276
+      },
+      {
+        "test_index": 474,
+        "gold": "80",
+        "pred": "80",
+        "correct": true,
+        "tokens": 245
+      },
+      {
+        "test_index": 410,
+        "gold": "3",
+        "pred": "3",
+        "correct": true,
+        "tokens": 450
+      },
+      {
+        "test_index": 705,
+        "gold": "120",
+        "pred": "120",
+        "correct": true,
+        "tokens": 371
+      },
+      {
+        "test_index": 528,
+        "gold": "172",
+        "pred": "172",
+        "correct": true,
+        "tokens": 472
+      },
+      {
+        "test_index": 220,
+        "gold": "70",
+        "pred": "70",
+        "correct": true,
+        "tokens": 306
+      },
+      {
+        "test_index": 1299,
+        "gold": "13",
+        "pred": "13",
+        "correct": true,
+        "tokens": 402
+      },
+      {
+        "test_index": 1212,
+        "gold": "150",
+        "pred": "150",
+        "correct": true,
+        "tokens": 324
+      },
+      {
+        "test_index": 368,
+        "gold": "18",
+        "pred": "10",
+        "correct": false,
+        "tokens": 251
+      },
+      {
+        "test_index": 926,
+        "gold": "1",
+        "pred": "1",
+        "correct": true,
+        "tokens": 657
+      },
+      {
+        "test_index": 243,
+        "gold": "250",
+        "pred": "250",
+        "correct": true,
+        "tokens": 365
+      },
+      {
+        "test_index": 56,
+        "gold": "3",
+        "pred": "3",
+        "correct": true,
+        "tokens": 283
+      },
+      {
+        "test_index": 889,
+        "gold": "15",
+        "pred": "15",
+        "correct": true,
+        "tokens": 322
+      },
+      {
+        "test_index": 1234,
+        "gold": "12",
+        "pred": "12",
+        "correct": true,
+        "tokens": 281
+      },
+      {
+        "test_index": 69,
+        "gold": "60",
+        "pred": "60",
+        "correct": true,
+        "tokens": 336
+      },
+      {
+        "test_index": 1157,
+        "gold": "3",
+        "pred": "3",
+        "correct": true,
+        "tokens": 397
+      },
+      {
+        "test_index": 1193,
+        "gold": "9",
+        "pred": "9",
+        "correct": true,
+        "tokens": 509
+      },
+      {
+        "test_index": 1293,
+        "gold": "140000",
+        "pred": "140000",
+        "correct": true,
+        "tokens": 354
+      },
+      {
+        "test_index": 749,
+        "gold": "3",
+        "pred": "6",
+        "correct": false,
+        "tokens": 301
+      },
+      {
+        "test_index": 1054,
+        "gold": "2400",
+        "pred": "2400",
+        "correct": true,
+        "tokens": 339
+      },
+      {
+        "test_index": 269,
+        "gold": "4",
+        "pred": "4",
+        "correct": true,
+        "tokens": 248
+      },
+      {
+        "test_index": 812,
+        "gold": "79",
+        "pred": "79",
+        "correct": true,
+        "tokens": 678
+      },
+      {
+        "test_index": 1143,
+        "gold": "300",
+        "pred": "300",
+        "correct": true,
+        "tokens": 263
+      },
+      {
+        "test_index": 192,
+        "gold": "91",
+        "pred": "91",
+        "correct": true,
+        "tokens": 456
+      },
+      {
+        "test_index": 623,
+        "gold": "8",
+        "pred": "8",
+        "correct": true,
+        "tokens": 223
+      },
+      {
+        "test_index": 678,
+        "gold": "120",
+        "pred": "120",
+        "correct": true,
+        "tokens": 352
+      },
+      {
+        "test_index": 382,
+        "gold": "350",
+        "pred": "350",
+        "correct": true,
+        "tokens": 447
+      },
+      {
+        "test_index": 207,
+        "gold": "2600",
+        "pred": "2600",
+        "correct": true,
+        "tokens": 455
+      },
+      {
+        "test_index": 848,
+        "gold": "10",
+        "pred": "10",
+        "correct": true,
+        "tokens": 338
+      },
+      {
+        "test_index": 428,
+        "gold": "26",
+        "pred": "22",
+        "correct": false,
+        "tokens": 535
+      },
+      {
+        "test_index": 622,
+        "gold": "7",
+        "pred": "7",
+        "correct": true,
+        "tokens": 632
+      },
+      {
+        "test_index": 1213,
+        "gold": "31",
+        "pred": "31",
+        "correct": true,
+        "tokens": 393
+      },
+      {
+        "test_index": 847,
+        "gold": "975",
+        "pred": "975",
+        "correct": true,
+        "tokens": 376
+      },
+      {
+        "test_index": 44,
+        "gold": "20",
+        "pred": "20",
+        "correct": true,
+        "tokens": 487
+      },
+      {
+        "test_index": 658,
+        "gold": "120",
+        "pred": "120",
+        "correct": true,
+        "tokens": 558
+      },
+      {
+        "test_index": 591,
+        "gold": "220",
+        "pred": "220",
+        "correct": true,
+        "tokens": 355
+      },
+      {
+        "test_index": 342,
+        "gold": "87",
+        "pred": "87",
+        "correct": true,
+        "tokens": 316
+      },
+      {
+        "test_index": 1024,
+        "gold": "300",
+        "pred": "300",
+        "correct": true,
+        "tokens": 338
+      },
+      {
+        "test_index": 1251,
+        "gold": "30",
+        "pred": "30",
+        "correct": true,
+        "tokens": 500
+      },
+      {
+        "test_index": 439,
+        "gold": "17",
+        "pred": "7",
+        "correct": false,
+        "tokens": 459
+      },
+      {
+        "test_index": 491,
+        "gold": "16",
+        "pred": "16",
+        "correct": true,
+        "tokens": 319
+      },
+      {
+        "test_index": 856,
+        "gold": "7",
+        "pred": "7",
+        "correct": true,
+        "tokens": 372
+      },
+      {
+        "test_index": 547,
+        "gold": "81",
+        "pred": "81",
+        "correct": true,
+        "tokens": 329
+      },
+      {
+        "test_index": 1224,
+        "gold": "5",
+        "pred": "5",
+        "correct": true,
+        "tokens": 266
+      },
+      {
+        "test_index": 346,
+        "gold": "9",
+        "pred": "9",
+        "correct": true,
+        "tokens": 372
+      },
+      {
+        "test_index": 655,
+        "gold": "10",
+        "pred": "10",
+        "correct": true,
+        "tokens": 256
+      },
+      {
+        "test_index": 1188,
+        "gold": "24",
+        "pred": "24",
+        "correct": true,
+        "tokens": 405
+      },
+      {
+        "test_index": 272,
+        "gold": "5",
+        "pred": "5",
+        "correct": true,
+        "tokens": 341
+      },
+      {
+        "test_index": 231,
+        "gold": "50",
+        "pred": "50",
+        "correct": true,
+        "tokens": 293
+      },
+      {
+        "test_index": 578,
+        "gold": "48",
+        "pred": "48",
+        "correct": true,
+        "tokens": 374
+      },
+      {
+        "test_index": 113,
+        "gold": "25",
+        "pred": "25",
+        "correct": true,
+        "tokens": 244
+      },
+      {
+        "test_index": 1245,
+        "gold": "96",
+        "pred": "96",
+        "correct": true,
+        "tokens": 369
+      },
+      {
+        "test_index": 999,
+        "gold": "25",
+        "pred": "25",
+        "correct": true,
+        "tokens": 501
+      },
+      {
+        "test_index": 844,
+        "gold": "180",
+        "pred": "180",
+        "correct": true,
+        "tokens": 539
+      },
+      {
+        "test_index": 1150,
+        "gold": "21",
+        "pred": "21",
+        "correct": true,
+        "tokens": 184
+      },
+      {
+        "test_index": 1194,
+        "gold": "1200",
+        "pred": "1200",
+        "correct": true,
+        "tokens": 258
+      },
+      {
+        "test_index": 73,
+        "gold": "255",
+        "pred": "255",
+        "correct": true,
+        "tokens": 524
+      },
+      {
+        "test_index": 628,
+        "gold": "4",
+        "pred": "4",
+        "correct": true,
+        "tokens": 489
+      },
+      {
+        "test_index": 773,
+        "gold": "10",
+        "pred": "10",
+        "correct": true,
+        "tokens": 361
+      },
+      {
+        "test_index": 910,
+        "gold": "700",
+        "pred": "700",
+        "correct": true,
+        "tokens": 267
+      },
+      {
+        "test_index": 1108,
+        "gold": "38",
+        "pred": "38",
+        "correct": true,
+        "tokens": 252
+      },
+      {
+        "test_index": 1135,
+        "gold": "32",
+        "pred": "32",
+        "correct": true,
+        "tokens": 346
+      },
+      {
+        "test_index": 967,
+        "gold": "30",
+        "pred": "30",
+        "correct": true,
+        "tokens": 377
+      },
+      {
+        "test_index": 160,
+        "gold": "16",
+        "pred": "16",
+        "correct": true,
+        "tokens": 298
+      },
+      {
+        "test_index": 585,
+        "gold": "40",
+        "pred": "40",
+        "correct": true,
+        "tokens": 418
+      },
+      {
+        "test_index": 1210,
+        "gold": "288",
+        "pred": "288",
+        "correct": true,
+        "tokens": 283
+      },
+      {
+        "test_index": 745,
+        "gold": "1100",
+        "pred": "1100",
+        "correct": true,
+        "tokens": 379
+      },
+      {
+        "test_index": 1281,
+        "gold": "20",
+        "pred": "20",
+        "correct": true,
+        "tokens": 359
+      },
+      {
+        "test_index": 328,
+        "gold": "2",
+        "pred": "2",
+        "correct": true,
+        "tokens": 356
+      },
+      {
+        "test_index": 796,
+        "gold": "2880000",
+        "pred": "3120000",
+        "correct": false,
+        "tokens": 436
+      },
+      {
+        "test_index": 524,
+        "gold": "9",
+        "pred": "9",
+        "correct": true,
+        "tokens": 447
+      },
+      {
+        "test_index": 874,
+        "gold": "132",
+        "pred": "132",
+        "correct": true,
+        "tokens": 253
+      },
+      {
+        "test_index": 1172,
+        "gold": "93",
+        "pred": "93",
+        "correct": true,
+        "tokens": 415
+      },
+      {
+        "test_index": 738,
+        "gold": "4",
+        "pred": "4",
+        "correct": true,
+        "tokens": 386
+      },
+      {
+        "test_index": 1072,
+        "gold": "85",
+        "pred": "85",
+        "correct": true,
+        "tokens": 368
+      },
+      {
+        "test_index": 615,
+        "gold": "33",
+        "pred": "33",
+        "correct": true,
+        "tokens": 591
+      },
+      {
+        "test_index": 845,
+        "gold": "12",
+        "pred": "12",
+        "correct": true,
+        "tokens": 425
+      },
+      {
+        "test_index": 1259,
+        "gold": "7200",
+        "pred": "7200",
+        "correct": true,
+        "tokens": 365
+      },
+      {
+        "test_index": 875,
+        "gold": "60",
+        "pred": "60",
+        "correct": true,
+        "tokens": 249
+      },
+      {
+        "test_index": 661,
+        "gold": "44",
+        "pred": "44",
+        "correct": true,
+        "tokens": 483
+      },
+      {
+        "test_index": 1102,
+        "gold": "113",
+        "pred": "113",
+        "correct": true,
+        "tokens": 523
+      },
+      {
+        "test_index": 640,
+        "gold": "43500",
+        "pred": "43500",
+        "correct": true,
+        "tokens": 634
+      },
+      {
+        "test_index": 134,
+        "gold": "720",
+        "pred": "720",
+        "correct": true,
+        "tokens": 225
+      },
+      {
+        "test_index": 188,
+        "gold": "50",
+        "pred": "50",
+        "correct": true,
+        "tokens": 443
+      },
+      {
+        "test_index": 112,
+        "gold": "24",
+        "pred": "24",
+        "correct": true,
+        "tokens": 330
+      },
+      {
+        "test_index": 751,
+        "gold": "43",
+        "pred": "43",
+        "correct": true,
+        "tokens": 446
+      },
+      {
+        "test_index": 612,
+        "gold": "30",
+        "pred": "30",
+        "correct": true,
+        "tokens": 360
+      },
+      {
+        "test_index": 1301,
+        "gold": "23",
+        "pred": "23",
+        "correct": true,
+        "tokens": 502
+      },
+      {
+        "test_index": 1071,
+        "gold": "251",
+        "pred": "251",
+        "correct": true,
+        "tokens": 439
+      },
+      {
+        "test_index": 32,
+        "gold": "35",
+        "pred": "35",
+        "correct": true,
+        "tokens": 298
+      },
+      {
+        "test_index": 943,
+        "gold": "50",
+        "pred": "50",
+        "correct": true,
+        "tokens": 341
+      },
+      {
+        "test_index": 126,
+        "gold": "82",
+        "pred": "82",
+        "correct": true,
+        "tokens": 274
+      },
+      {
+        "test_index": 651,
+        "gold": "2100",
+        "pred": "2100",
+        "correct": true,
+        "tokens": 551
+      },
+      {
+        "test_index": 1014,
+        "gold": "3",
+        "pred": "3",
+        "correct": true,
+        "tokens": 549
+      },
+      {
+        "test_index": 1163,
+        "gold": "12",
+        "pred": "12",
+        "correct": true,
+        "tokens": 277
+      },
+      {
+        "test_index": 846,
+        "gold": "11",
+        "pred": "6",
+        "correct": false,
+        "tokens": 579
+      },
+      {
+        "test_index": 97,
+        "gold": "12",
+        "pred": "12",
+        "correct": true,
+        "tokens": 397
+      },
+      {
+        "test_index": 510,
+        "gold": "525",
+        "pred": "522.39",
+        "correct": false,
+        "tokens": 598
+      },
+      {
+        "test_index": 121,
+        "gold": "27",
+        "pred": "27",
+        "correct": true,
+        "tokens": 317
+      },
+      {
+        "test_index": 190,
+        "gold": "360",
+        "pred": "360",
+        "correct": true,
+        "tokens": 245
+      },
+      {
+        "test_index": 990,
+        "gold": "14",
+        "pred": "14",
+        "correct": true,
+        "tokens": 411
+      },
+      {
+        "test_index": 11,
+        "gold": "694",
+        "pred": "694",
+        "correct": true,
+        "tokens": 383
+      },
+      {
+        "test_index": 914,
+        "gold": "3",
+        "pred": "3",
+        "correct": true,
+        "tokens": 285
+      },
+      {
+        "test_index": 1107,
+        "gold": "360",
+        "pred": "360",
+        "correct": true,
+        "tokens": 419
+      },
+      {
+        "test_index": 298,
+        "gold": "500",
+        "pred": "400",
+        "correct": false,
+        "tokens": 357
+      },
+      {
+        "test_index": 886,
+        "gold": "20",
+        "pred": "20",
+        "correct": true,
+        "tokens": 305
+      },
+      {
+        "test_index": 1246,
+        "gold": "3360",
+        "pred": "3360",
+        "correct": true,
+        "tokens": 268
+      },
+      {
+        "test_index": 540,
+        "gold": "39",
+        "pred": "39",
+        "correct": true,
+        "tokens": 354
+      },
+      {
+        "test_index": 982,
+        "gold": "12",
+        "pred": "12",
+        "correct": true,
+        "tokens": 411
+      },
+      {
+        "test_index": 581,
+        "gold": "215",
+        "pred": "215",
+        "correct": true,
+        "tokens": 303
+      },
+      {
+        "test_index": 783,
+        "gold": "4",
+        "pred": "4",
+        "correct": true,
+        "tokens": 605
+      },
+      {
+        "test_index": 673,
+        "gold": "9",
+        "pred": "9",
+        "correct": true,
+        "tokens": 294
+      },
+      {
+        "test_index": 1238,
+        "gold": "520",
+        "pred": "520",
+        "correct": true,
+        "tokens": 387
+      },
+      {
+        "test_index": 261,
+        "gold": "62",
+        "pred": "62",
+        "correct": true,
+        "tokens": 347
+      },
+      {
+        "test_index": 531,
+        "gold": "66",
+        "pred": "66",
+        "correct": true,
+        "tokens": 420
+      },
+      {
+        "test_index": 1167,
+        "gold": "120",
+        "pred": "120",
+        "correct": true,
+        "tokens": 192
+      },
+      {
+        "test_index": 983,
+        "gold": "15",
+        "pred": "15",
+        "correct": true,
+        "tokens": 358
+      },
+      {
+        "test_index": 1110,
+        "gold": "60",
+        "pred": "60",
+        "correct": true,
+        "tokens": 454
+      },
+      {
+        "test_index": 580,
+        "gold": "500",
+        "pred": "500",
+        "correct": true,
+        "tokens": 423
+      },
+      {
+        "test_index": 901,
+        "gold": "1",
+        "pred": "2",
+        "correct": false,
+        "tokens": 477
+      },
+      {
+        "test_index": 942,
+        "gold": "205",
+        "pred": "205",
+        "correct": true,
+        "tokens": 368
+      },
+      {
+        "test_index": 681,
+        "gold": "298",
+        "pred": "298",
+        "correct": true,
+        "tokens": 626
+      },
+      {
+        "test_index": 526,
+        "gold": "21",
+        "pred": "21",
+        "correct": true,
+        "tokens": 484
+      },
+      {
+        "test_index": 125,
+        "gold": "10",
+        "pred": "10",
+        "correct": true,
+        "tokens": 374
+      },
+      {
+        "test_index": 423,
+        "gold": "8",
+        "pred": "-4",
+        "correct": false,
+        "tokens": 645
+      },
+      {
+        "test_index": 1026,
+        "gold": "43200",
+        "pred": "43200",
+        "correct": true,
+        "tokens": 473
+      },
+      {
+        "test_index": 888,
+        "gold": "10",
+        "pred": "10",
+        "correct": true,
+        "tokens": 215
+      },
+      {
+        "test_index": 214,
+        "gold": "8",
+        "pred": "8",
+        "correct": true,
+        "tokens": 475
+      },
+      {
+        "test_index": 1215,
+        "gold": "36",
+        "pred": "36",
+        "correct": true,
+        "tokens": 685
+      },
+      {
+        "test_index": 978,
+        "gold": "160",
+        "pred": "160",
+        "correct": true,
+        "tokens": 338
+      },
+      {
+        "test_index": 498,
+        "gold": "40",
+        "pred": "40",
+        "correct": true,
+        "tokens": 317
+      },
+      {
+        "test_index": 1070,
+        "gold": "18",
+        "pred": "18",
+        "correct": true,
+        "tokens": 582
+      },
+      {
+        "test_index": 525,
+        "gold": "12",
+        "pred": "12",
+        "correct": true,
+        "tokens": 368
+      },
+      {
+        "test_index": 68,
+        "gold": "36",
+        "pred": "36",
+        "correct": true,
+        "tokens": 352
+      },
+      {
+        "test_index": 1148,
+        "gold": "9",
+        "pred": "9",
+        "correct": true,
+        "tokens": 254
+      },
+      {
+        "test_index": 818,
+        "gold": "16",
+        "pred": "16",
+        "correct": true,
+        "tokens": 406
+      },
+      {
+        "test_index": 828,
+        "gold": "60",
+        "pred": "60",
+        "correct": true,
+        "tokens": 275
+      },
+      {
+        "test_index": 402,
+        "gold": "4",
+        "pred": "4",
+        "correct": true,
+        "tokens": 533
+      },
+      {
+        "test_index": 771,
+        "gold": "3",
+        "pred": "3",
+        "correct": true,
+        "tokens": 328
+      },
+      {
+        "test_index": 202,
+        "gold": "100",
+        "pred": "100",
+        "correct": true,
+        "tokens": 236
+      },
+      {
+        "test_index": 1288,
+        "gold": "34",
+        "pred": "2040",
+        "correct": false,
+        "tokens": 403
+      },
+      {
+        "test_index": 1075,
+        "gold": "16",
+        "pred": "100",
+        "correct": false,
+        "tokens": 481
+      },
+      {
+        "test_index": 522,
+        "gold": "29",
+        "pred": "29",
+        "correct": true,
+        "tokens": 438
+      },
+      {
+        "test_index": 894,
+        "gold": "26",
+        "pred": "26",
+        "correct": true,
+        "tokens": 859
+      },
+      {
+        "test_index": 34,
+        "gold": "23",
+        "pred": "23",
+        "correct": true,
+        "tokens": 249
+      },
+      {
+        "test_index": 1129,
+        "gold": "8",
+        "pred": "8",
+        "correct": true,
+        "tokens": 575
+      },
+      {
+        "test_index": 1147,
+        "gold": "22",
+        "pred": "22",
+        "correct": true,
+        "tokens": 549
+      },
+      {
+        "test_index": 1056,
+        "gold": "156",
+        "pred": "156",
+        "correct": true,
+        "tokens": 417
+      },
+      {
+        "test_index": 153,
+        "gold": "48",
+        "pred": "48",
+        "correct": true,
+        "tokens": 661
+      },
+      {
+        "test_index": 235,
+        "gold": "10",
+        "pred": "10",
+        "correct": true,
+        "tokens": 320
+      },
+      {
+        "test_index": 48,
+        "gold": "8",
+        "pred": "8",
+        "correct": true,
+        "tokens": 293
+      },
+      {
+        "test_index": 492,
+        "gold": "32",
+        "pred": "32",
+        "correct": true,
+        "tokens": 282
+      },
+      {
+        "test_index": 871,
+        "gold": "48",
+        "pred": "48",
+        "correct": true,
+        "tokens": 470
+      },
+      {
+        "test_index": 869,
+        "gold": "500",
+        "pred": "500",
+        "correct": true,
+        "tokens": 275
+      },
+      {
+        "test_index": 1004,
+        "gold": "8",
+        "pred": "8",
+        "correct": true,
+        "tokens": 406
+      },
+      {
+        "test_index": 241,
+        "gold": "6",
+        "pred": "6",
+        "correct": true,
+        "tokens": 335
+      },
+      {
+        "test_index": 489,
+        "gold": "-10",
+        "pred": "-10",
+        "correct": true,
+        "tokens": 339
+      },
+      {
+        "test_index": 212,
+        "gold": "5",
+        "pred": "5",
+        "correct": true,
+        "tokens": 347
+      },
+      {
+        "test_index": 536,
+        "gold": "8",
+        "pred": "8",
+        "correct": true,
+        "tokens": 262
+      },
+      {
+        "test_index": 887,
+        "gold": "34",
+        "pred": "34",
+        "correct": true,
+        "tokens": 342
+      },
+      {
+        "test_index": 587,
+        "gold": "30",
+        "pred": "32",
+        "correct": false,
+        "tokens": 512
+      },
+      {
+        "test_index": 1091,
+        "gold": "1000",
+        "pred": "1000",
+        "correct": true,
+        "tokens": 293
+      },
+      {
+        "test_index": 78,
+        "gold": "6",
+        "pred": "6",
+        "correct": true,
+        "tokens": 473
+      },
+      {
+        "test_index": 427,
+        "gold": "150",
+        "pred": "150",
+        "correct": true,
+        "tokens": 448
+      },
+      {
+        "test_index": 455,
+        "gold": "1920",
+        "pred": "1920",
+        "correct": true,
+        "tokens": 519
+      },
+      {
+        "test_index": 367,
+        "gold": "19",
+        "pred": "19",
+        "correct": true,
+        "tokens": 535
+      },
+      {
+        "test_index": 1179,
+        "gold": "50",
+        "pred": "50",
+        "correct": true,
+        "tokens": 425
+      },
+      {
+        "test_index": 750,
+        "gold": "4000",
+        "pred": "4000",
+        "correct": true,
+        "tokens": 470
+      },
+      {
+        "test_index": 974,
+        "gold": "5",
+        "pred": "5",
+        "correct": true,
+        "tokens": 310
+      },
+      {
+        "test_index": 473,
+        "gold": "10",
+        "pred": "10",
+        "correct": true,
+        "tokens": 464
+      },
+      {
+        "test_index": 981,
+        "gold": "7",
+        "pred": "7",
+        "correct": true,
+        "tokens": 369
+      },
+      {
+        "test_index": 1049,
+        "gold": "20",
+        "pred": "20",
+        "correct": true,
+        "tokens": 364
+      },
+      {
+        "test_index": 395,
+        "gold": "38",
+        "pred": "38",
+        "correct": true,
+        "tokens": 381
+      },
+      {
+        "test_index": 1128,
+        "gold": "9",
+        "pred": "9",
+        "correct": true,
+        "tokens": 309
+      },
+      {
+        "test_index": 62,
+        "gold": "25000",
+        "pred": "75000",
+        "correct": false,
+        "tokens": 481
+      },
+      {
+        "test_index": 583,
+        "gold": "120",
+        "pred": "120",
+        "correct": true,
+        "tokens": 538
+      },
+      {
+        "test_index": 576,
+        "gold": "11232",
+        "pred": "11132",
+        "correct": false,
+        "tokens": 684
+      },
+      {
+        "test_index": 807,
+        "gold": "4",
+        "pred": "4",
+        "correct": true,
+        "tokens": 504
+      },
+      {
+        "test_index": 67,
+        "gold": "595",
+        "pred": "595",
+        "correct": true,
+        "tokens": 293
+      },
+      {
+        "test_index": 898,
+        "gold": "110",
+        "pred": "110",
+        "correct": true,
+        "tokens": 340
+      },
+      {
+        "test_index": 631,
+        "gold": "4800",
+        "pred": "4800",
+        "correct": true,
+        "tokens": 428
+      },
+      {
+        "test_index": 1198,
+        "gold": "140",
+        "pred": "140",
+        "correct": true,
+        "tokens": 536
+      },
+      {
+        "test_index": 1007,
+        "gold": "34",
+        "pred": "34",
+        "correct": true,
+        "tokens": 318
+      },
+      {
+        "test_index": 726,
+        "gold": "10",
+        "pred": "10",
+        "correct": true,
+        "tokens": 450
+      },
+      {
+        "test_index": 721,
+        "gold": "2450",
+        "pred": "2450",
+        "correct": true,
+        "tokens": 614
+      },
+      {
+        "test_index": 185,
+        "gold": "30",
+        "pred": "30",
+        "correct": true,
+        "tokens": 230
+      },
+      {
+        "test_index": 325,
+        "gold": "224000",
+        "pred": "224000",
+        "correct": true,
+        "tokens": 552
+      },
+      {
+        "test_index": 1204,
+        "gold": "168",
+        "pred": "168",
+        "correct": true,
+        "tokens": 379
+      },
+      {
+        "test_index": 512,
+        "gold": "120",
+        "pred": "120",
+        "correct": true,
+        "tokens": 263
+      },
+      {
+        "test_index": 1240,
+        "gold": "2",
+        "pred": "2",
+        "correct": true,
+        "tokens": 499
+      },
+      {
+        "test_index": 804,
+        "gold": "20",
+        "pred": "20",
+        "correct": true,
+        "tokens": 387
+      },
+      {
+        "test_index": 277,
+        "gold": "4",
+        "pred": "4",
+        "correct": true,
+        "tokens": 366
+      },
+      {
+        "test_index": 784,
+        "gold": "15",
+        "pred": "15",
+        "correct": true,
+        "tokens": 475
+      },
+      {
+        "test_index": 263,
+        "gold": "8",
+        "pred": "8",
+        "correct": true,
+        "tokens": 353
+      },
+      {
+        "test_index": 571,
+        "gold": "308",
+        "pred": "308",
+        "correct": true,
+        "tokens": 328
+      },
+      {
+        "test_index": 59,
+        "gold": "187",
+        "pred": "187",
+        "correct": true,
+        "tokens": 264
+      },
+      {
+        "test_index": 852,
+        "gold": "123",
+        "pred": "123",
+        "correct": true,
+        "tokens": 447
+      },
+      {
+        "test_index": 1303,
+        "gold": "4",
+        "pred": "4",
+        "correct": true,
+        "tokens": 485
+      },
+      {
+        "test_index": 763,
+        "gold": "100",
+        "pred": "100",
+        "correct": true,
+        "tokens": 470
+      },
+      {
+        "test_index": 829,
+        "gold": "14000",
+        "pred": "14000",
+        "correct": true,
+        "tokens": 411
+      },
+      {
+        "test_index": 515,
+        "gold": "160",
+        "pred": "288",
+        "correct": false,
+        "tokens": 308
+      },
+      {
+        "test_index": 18,
+        "gold": "7",
+        "pred": "7",
+        "correct": true,
+        "tokens": 264
+      },
+      {
+        "test_index": 1097,
+        "gold": "480",
+        "pred": "480",
+        "correct": true,
+        "tokens": 341
+      },
+      {
+        "test_index": 1313,
+        "gold": "2",
+        "pred": "2",
+        "correct": true,
+        "tokens": 338
+      },
+      {
+        "test_index": 354,
+        "gold": "45",
+        "pred": "45",
+        "correct": true,
+        "tokens": 374
+      },
+      {
+        "test_index": 1060,
+        "gold": "31",
+        "pred": "31",
+        "correct": true,
+        "tokens": 510
+      },
+      {
+        "test_index": 210,
+        "gold": "10",
+        "pred": "10",
+        "correct": true,
+        "tokens": 513
+      },
+      {
+        "test_index": 168,
+        "gold": "18",
+        "pred": "18",
+        "correct": true,
+        "tokens": 195
+      },
+      {
+        "test_index": 1185,
+        "gold": "6",
+        "pred": "6",
+        "correct": true,
+        "tokens": 406
+      },
+      {
+        "test_index": 613,
+        "gold": "93000",
+        "pred": "93000",
+        "correct": true,
+        "tokens": 352
+      },
+      {
+        "test_index": 1048,
+        "gold": "7400",
+        "pred": "9860.78",
+        "correct": false,
+        "tokens": 478
+      },
+      {
+        "test_index": 170,
+        "gold": "150",
+        "pred": "150",
+        "correct": true,
+        "tokens": 360
+      },
+      {
+        "test_index": 485,
+        "gold": "220",
+        "pred": "220",
+        "correct": true,
+        "tokens": 199
+      },
+      {
+        "test_index": 790,
+        "gold": "108",
+        "pred": "108",
+        "correct": true,
+        "tokens": 510
+      },
+      {
+        "test_index": 462,
+        "gold": "71",
+        "pred": "71",
+        "correct": true,
+        "tokens": 196
+      },
+      {
+        "test_index": 1002,
+        "gold": "8",
+        "pred": "8",
+        "correct": true,
+        "tokens": 277
+      },
+      {
+        "test_index": 780,
+        "gold": "25",
+        "pred": "-25",
+        "correct": false,
+        "tokens": 554
+      },
+      {
+        "test_index": 667,
+        "gold": "53",
+        "pred": "53",
+        "correct": true,
+        "tokens": 240
+      },
+      {
+        "test_index": 299,
+        "gold": "31800",
+        "pred": "31800",
+        "correct": true,
+        "tokens": 522
+      },
+      {
+        "test_index": 92,
+        "gold": "4",
+        "pred": "4",
+        "correct": true,
+        "tokens": 333
+      },
+      {
+        "test_index": 1262,
+        "gold": "12",
+        "pred": "12",
+        "correct": true,
+        "tokens": 303
+      },
+      {
+        "test_index": 714,
+        "gold": "10",
+        "pred": "10",
+        "correct": true,
+        "tokens": 471
+      },
+      {
+        "test_index": 702,
+        "gold": "2800",
+        "pred": "2800",
+        "correct": true,
+        "tokens": 420
+      },
+      {
+        "test_index": 823,
+        "gold": "14",
+        "pred": "18",
+        "correct": false,
+        "tokens": 366
+      },
+      {
+        "test_index": 89,
+        "gold": "24",
+        "pred": "18",
+        "correct": false,
+        "tokens": 337
+      },
+      {
+        "test_index": 1016,
+        "gold": "138",
+        "pred": "139",
+        "correct": false,
+        "tokens": 381
+      },
+      {
+        "test_index": 575,
+        "gold": "36",
+        "pred": "36",
+        "correct": true,
+        "tokens": 451
+      },
+      {
+        "test_index": 988,
+        "gold": "6",
+        "pred": "6",
+        "correct": true,
+        "tokens": 343
+      },
+      {
+        "test_index": 917,
+        "gold": "12",
+        "pred": "12",
+        "correct": true,
+        "tokens": 262
+      },
+      {
+        "test_index": 300,
+        "gold": "78",
+        "pred": "78",
+        "correct": true,
+        "tokens": 285
+      },
+      {
+        "test_index": 294,
+        "gold": "3",
+        "pred": "3",
+        "correct": true,
+        "tokens": 361
+      },
+      {
+        "test_index": 779,
+        "gold": "255",
+        "pred": "255",
+        "correct": true,
+        "tokens": 485
+      },
+      {
+        "test_index": 46,
+        "gold": "163",
+        "pred": "163",
+        "correct": true,
+        "tokens": 398
+      },
+      {
+        "test_index": 1290,
+        "gold": "90",
+        "pred": "90",
+        "correct": true,
+        "tokens": 389
+      },
+      {
+        "test_index": 1218,
+        "gold": "225",
+        "pred": "225",
+        "correct": true,
+        "tokens": 499
+      },
+      {
+        "test_index": 1003,
+        "gold": "480",
+        "pred": "480",
+        "correct": true,
+        "tokens": 512
+      },
+      {
+        "test_index": 950,
+        "gold": "5",
+        "pred": "5",
+        "correct": true,
+        "tokens": 495
+      },
+      {
+        "test_index": 221,
+        "gold": "90",
+        "pred": "90",
+        "correct": true,
+        "tokens": 331
+      },
+      {
+        "test_index": 605,
+        "gold": "42",
+        "pred": "42",
+        "correct": true,
+        "tokens": 417
+      },
+      {
+        "test_index": 1076,
+        "gold": "162",
+        "pred": "162",
+        "correct": true,
+        "tokens": 386
+      },
+      {
+        "test_index": 803,
+        "gold": "9",
+        "pred": "9",
+        "correct": true,
+        "tokens": 365
+      },
+      {
+        "test_index": 494,
+        "gold": "21",
+        "pred": "53",
+        "correct": false,
+        "tokens": 480
+      },
+      {
+        "test_index": 252,
+        "gold": "73",
+        "pred": "73",
+        "correct": true,
+        "tokens": 371
+      },
+      {
+        "test_index": 857,
+        "gold": "14000",
+        "pred": "14000",
+        "correct": true,
+        "tokens": 297
+      },
+      {
+        "test_index": 256,
+        "gold": "45",
+        "pred": "45",
+        "correct": true,
+        "tokens": 443
+      },
+      {
+        "test_index": 1045,
+        "gold": "420",
+        "pred": "420",
+        "correct": true,
+        "tokens": 311
+      },
+      {
+        "test_index": 1256,
+        "gold": "15",
+        "pred": "15",
+        "correct": true,
+        "tokens": 569
+      },
+      {
+        "test_index": 1254,
+        "gold": "30",
+        "pred": "30",
+        "correct": true,
+        "tokens": 404
+      },
+      {
+        "test_index": 239,
+        "gold": "280",
+        "pred": "280",
+        "correct": true,
+        "tokens": 424
+      },
+      {
+        "test_index": 733,
+        "gold": "5",
+        "pred": "5",
+        "correct": true,
+        "tokens": 239
+      },
+      {
+        "test_index": 700,
+        "gold": "135",
+        "pred": "135",
+        "correct": true,
+        "tokens": 400
+      },
+      {
+        "test_index": 381,
+        "gold": "67",
+        "pred": "67",
+        "correct": true,
+        "tokens": 281
+      },
+      {
+        "test_index": 822,
+        "gold": "1260",
+        "pred": "1260",
+        "correct": true,
+        "tokens": 358
+      },
+      {
+        "test_index": 386,
+        "gold": "80",
+        "pred": "80",
+        "correct": true,
+        "tokens": 265
+      },
+      {
+        "test_index": 157,
+        "gold": "80",
+        "pred": "80",
+        "correct": true,
+        "tokens": 665
+      },
+      {
+        "test_index": 84,
+        "gold": "15",
+        "pred": "15",
+        "correct": true,
+        "tokens": 312
+      },
+      {
+        "test_index": 1174,
+        "gold": "240",
+        "pred": "240",
+        "correct": true,
+        "tokens": 414
+      },
+      {
+        "test_index": 376,
+        "gold": "15",
+        "pred": "15",
+        "correct": true,
+        "tokens": 300
+      },
+      {
+        "test_index": 72,
+        "gold": "221",
+        "pred": "221",
+        "correct": true,
+        "tokens": 294
+      },
+      {
+        "test_index": 1106,
+        "gold": "5",
+        "pred": "5",
+        "correct": true,
+        "tokens": 324
+      },
+      {
+        "test_index": 960,
+        "gold": "11",
+        "pred": "11",
+        "correct": true,
+        "tokens": 524
+      },
+      {
+        "test_index": 331,
+        "gold": "8400",
+        "pred": "8400",
+        "correct": true,
+        "tokens": 662
+      },
+      {
+        "test_index": 419,
+        "gold": "3000",
+        "pred": "3000",
+        "correct": true,
+        "tokens": 374
+      },
+      {
+        "test_index": 1283,
+        "gold": "60",
+        "pred": "60",
+        "correct": true,
+        "tokens": 322
+      },
+      {
+        "test_index": 1006,
+        "gold": "826",
+        "pred": "826",
+        "correct": true,
+        "tokens": 567
+      },
+      {
+        "test_index": 1181,
+        "gold": "20",
+        "pred": "20",
+        "correct": true,
+        "tokens": 460
+      },
+      {
+        "test_index": 101,
+        "gold": "6",
+        "pred": "6",
+        "correct": true,
+        "tokens": 401
+      },
+      {
+        "test_index": 1027,
+        "gold": "12",
+        "pred": "12",
+        "correct": true,
+        "tokens": 332
+      },
+      {
+        "test_index": 893,
+        "gold": "480",
+        "pred": "480",
+        "correct": true,
+        "tokens": 291
+      },
+      {
+        "test_index": 401,
+        "gold": "14400",
+        "pred": "14400",
+        "correct": true,
+        "tokens": 291
+      },
+      {
+        "test_index": 659,
+        "gold": "3",
+        "pred": "3",
+        "correct": true,
+        "tokens": 504
+      },
+      {
+        "test_index": 1058,
+        "gold": "250",
+        "pred": "250",
+        "correct": true,
+        "tokens": 336
+      },
+      {
+        "test_index": 708,
+        "gold": "168",
+        "pred": "168",
+        "correct": true,
+        "tokens": 215
+      },
+      {
+        "test_index": 935,
+        "gold": "64800",
+        "pred": "64800",
+        "correct": true,
+        "tokens": 682
+      },
+      {
+        "test_index": 508,
+        "gold": "120",
+        "pred": "120",
+        "correct": true,
+        "tokens": 463
+      },
+      {
+        "test_index": 1095,
+        "gold": "270",
+        "pred": "270",
+        "correct": true,
+        "tokens": 427
+      },
+      {
+        "test_index": 482,
+        "gold": "26",
+        "pred": "26",
+        "correct": true,
+        "tokens": 230
+      },
+      {
+        "test_index": 361,
+        "gold": "20",
+        "pred": "20",
+        "correct": true,
+        "tokens": 482
+      },
+      {
+        "test_index": 147,
+        "gold": "75",
+        "pred": "75",
+        "correct": true,
+        "tokens": 495
+      },
+      {
+        "test_index": 1041,
+        "gold": "101",
+        "pred": "101",
+        "correct": true,
+        "tokens": 380
+      },
+      {
+        "test_index": 16,
+        "gold": "230",
+        "pred": "230",
+        "correct": true,
+        "tokens": 242
+      },
+      {
+        "test_index": 624,
+        "gold": "85",
+        "pred": "85",
+        "correct": true,
+        "tokens": 311
+      },
+      {
+        "test_index": 711,
+        "gold": "6",
+        "pred": "4",
+        "correct": false,
+        "tokens": 549
+      },
+      {
+        "test_index": 304,
+        "gold": "3200",
+        "pred": "3200",
+        "correct": true,
+        "tokens": 325
+      },
+      {
+        "test_index": 513,
+        "gold": "300",
+        "pred": "300",
+        "correct": true,
+        "tokens": 292
+      },
+      {
+        "test_index": 1228,
+        "gold": "31",
+        "pred": "31",
+        "correct": true,
+        "tokens": 331
+      },
+      {
+        "test_index": 1282,
+        "gold": "12",
+        "pred": "12",
+        "correct": true,
+        "tokens": 454
+      },
+      {
+        "test_index": 1001,
+        "gold": "2",
+        "pred": "2",
+        "correct": true,
+        "tokens": 421
+      },
+      {
+        "test_index": 396,
+        "gold": "3",
+        "pred": "3",
+        "correct": true,
+        "tokens": 468
+      },
+      {
+        "test_index": 38,
+        "gold": "10",
+        "pred": "10",
+        "correct": true,
+        "tokens": 384
+      },
+      {
+        "test_index": 560,
+        "gold": "45",
+        "pred": "45",
+        "correct": true,
+        "tokens": 346
+      },
+      {
+        "test_index": 1028,
+        "gold": "200",
+        "pred": "200",
+        "correct": true,
+        "tokens": 298
+      },
+      {
+        "test_index": 122,
+        "gold": "48",
+        "pred": "48",
+        "correct": true,
+        "tokens": 441
+      },
+      {
+        "test_index": 80,
+        "gold": "10",
+        "pred": "10",
+        "correct": true,
+        "tokens": 388
+      },
+      {
+        "test_index": 739,
+        "gold": "98",
+        "pred": "98",
+        "correct": true,
+        "tokens": 494
+      },
+      {
+        "test_index": 1169,
+        "gold": "2",
+        "pred": "2",
+        "correct": true,
+        "tokens": 484
+      },
+      {
+        "test_index": 1017,
+        "gold": "45",
+        "pred": "27",
+        "correct": false,
+        "tokens": 397
+      },
+      {
+        "test_index": 912,
+        "gold": "6",
+        "pred": "7",
+        "correct": false,
+        "tokens": 367
+      },
+      {
+        "test_index": 320,
+        "gold": "8",
+        "pred": "8",
+        "correct": true,
+        "tokens": 349
+      },
+      {
+        "test_index": 991,
+        "gold": "15",
+        "pred": "15",
+        "correct": true,
+        "tokens": 435
+      },
+      {
+        "test_index": 557,
+        "gold": "70",
+        "pred": "70",
+        "correct": true,
+        "tokens": 419
+      },
+      {
+        "test_index": 50,
+        "gold": "294",
+        "pred": "294",
+        "correct": true,
+        "tokens": 266
+      },
+      {
+        "test_index": 1227,
+        "gold": "66",
+        "pred": "66",
+        "correct": true,
+        "tokens": 368
+      },
+      {
+        "test_index": 872,
+        "gold": "13",
+        "pred": "13",
+        "correct": true,
+        "tokens": 456
+      },
+      {
+        "test_index": 1081,
+        "gold": "195",
+        "pred": "195",
+        "correct": true,
+        "tokens": 236
+      },
+      {
+        "test_index": 755,
+        "gold": "7",
+        "pred": "7",
+        "correct": true,
+        "tokens": 283
+      },
+      {
+        "test_index": 1009,
+        "gold": "1875",
+        "pred": "1875",
+        "correct": true,
+        "tokens": 589
+      },
+      {
+        "test_index": 715,
+        "gold": "385000",
+        "pred": "385000",
+        "correct": true,
+        "tokens": 324
+      },
+      {
+        "test_index": 762,
+        "gold": "85",
+        "pred": "85",
+        "correct": true,
+        "tokens": 303
+      },
+      {
+        "test_index": 697,
+        "gold": "27",
+        "pred": "27",
+        "correct": true,
+        "tokens": 367
+      },
+      {
+        "test_index": 937,
+        "gold": "159",
+        "pred": "159",
+        "correct": true,
+        "tokens": 439
+      },
+      {
+        "test_index": 883,
+        "gold": "25",
+        "pred": "25",
+        "correct": true,
+        "tokens": 370
+      },
+      {
+        "test_index": 820,
+        "gold": "720",
+        "pred": "720",
+        "correct": true,
+        "tokens": 300
+      },
+      {
+        "test_index": 831,
+        "gold": "324",
+        "pred": "324",
+        "correct": true,
+        "tokens": 496
+      },
+      {
+        "test_index": 959,
+        "gold": "7",
+        "pred": "7",
+        "correct": true,
+        "tokens": 428
+      },
+      {
+        "test_index": 397,
+        "gold": "25",
+        "pred": "25",
+        "correct": true,
+        "tokens": 309
+      },
+      {
+        "test_index": 115,
+        "gold": "90",
+        "pred": "90",
+        "correct": true,
+        "tokens": 693
+      },
+      {
+        "test_index": 839,
+        "gold": "2",
+        "pred": "2",
+        "correct": true,
+        "tokens": 315
+      },
+      {
+        "test_index": 404,
+        "gold": "22",
+        "pred": "22",
+        "correct": true,
+        "tokens": 361
+      },
+      {
+        "test_index": 483,
+        "gold": "40",
+        "pred": "40",
+        "correct": true,
+        "tokens": 351
+      },
+      {
+        "test_index": 310,
+        "gold": "2050",
+        "pred": "2050",
+        "correct": true,
+        "tokens": 537
+      },
+      {
+        "test_index": 213,
+        "gold": "250",
+        "pred": "250",
+        "correct": true,
+        "tokens": 351
+      },
+      {
+        "test_index": 880,
+        "gold": "10",
+        "pred": "0",
+        "correct": false,
+        "tokens": 453
+      },
+      {
+        "test_index": 1021,
+        "gold": "36",
+        "pred": "36",
+        "correct": true,
+        "tokens": 443
+      },
+      {
+        "test_index": 60,
+        "gold": "17",
+        "pred": "17",
+        "correct": true,
+        "tokens": 366
+      },
+      {
+        "test_index": 809,
+        "gold": "50",
+        "pred": "50",
+        "correct": true,
+        "tokens": 315
+      },
+      {
+        "test_index": 1131,
+        "gold": "96",
+        "pred": "96",
+        "correct": true,
+        "tokens": 461
+      },
+      {
+        "test_index": 155,
+        "gold": "280",
+        "pred": "280",
+        "correct": true,
+        "tokens": 622
+      },
+      {
+        "test_index": 979,
+        "gold": "50",
+        "pred": "50",
+        "correct": true,
+        "tokens": 428
+      },
+      {
+        "test_index": 786,
+        "gold": "142",
+        "pred": "142",
+        "correct": true,
+        "tokens": 323
+      },
+      {
+        "test_index": 76,
+        "gold": "5",
+        "pred": "5",
+        "correct": true,
+        "tokens": 463
+      },
+      {
+        "test_index": 1065,
+        "gold": "95",
+        "pred": "95",
+        "correct": true,
+        "tokens": 303
+      },
+      {
+        "test_index": 719,
+        "gold": "175",
+        "pred": "175",
+        "correct": true,
+        "tokens": 258
+      },
+      {
+        "test_index": 975,
+        "gold": "20",
+        "pred": "20",
+        "correct": true,
+        "tokens": 371
+      },
+      {
+        "test_index": 1051,
+        "gold": "15",
+        "pred": "15",
+        "correct": true,
+        "tokens": 284
+      },
+      {
+        "test_index": 295,
+        "gold": "370",
+        "pred": "370",
+        "correct": true,
+        "tokens": 322
+      },
+      {
+        "test_index": 37,
+        "gold": "2",
+        "pred": "0",
+        "correct": false,
+        "tokens": 392
+      },
+      {
+        "test_index": 459,
+        "gold": "2",
+        "pred": "2",
+        "correct": true,
+        "tokens": 572
+      },
+      {
+        "test_index": 205,
+        "gold": "98",
+        "pred": "98",
+        "correct": true,
+        "tokens": 448
+      },
+      {
+        "test_index": 33,
+        "gold": "70",
+        "pred": "70",
+        "correct": true,
+        "tokens": 341
+      },
+      {
+        "test_index": 420,
+        "gold": "17000",
+        "pred": "17000",
+        "correct": true,
+        "tokens": 325
+      },
+      {
+        "test_index": 58,
+        "gold": "57",
+        "pred": "57",
+        "correct": true,
+        "tokens": 395
+      },
+      {
+        "test_index": 603,
+        "gold": "1800",
+        "pred": "1800",
+        "correct": true,
+        "tokens": 508
+      },
+      {
+        "test_index": 816,
+        "gold": "4500",
+        "pred": "4500",
+        "correct": true,
+        "tokens": 282
+      },
+      {
+        "test_index": 602,
+        "gold": "5",
+        "pred": "5",
+        "correct": true,
+        "tokens": 242
+      },
+      {
+        "test_index": 665,
+        "gold": "360",
+        "pred": "360",
+        "correct": true,
+        "tokens": 361
+      },
+      {
+        "test_index": 1159,
+        "gold": "50",
+        "pred": "50",
+        "correct": true,
+        "tokens": 523
+      },
+      {
+        "test_index": 174,
+        "gold": "95",
+        "pred": "95",
+        "correct": true,
+        "tokens": 489
+      },
+      {
+        "test_index": 654,
+        "gold": "2",
+        "pred": "2",
+        "correct": true,
+        "tokens": 376
+      },
+      {
+        "test_index": 1042,
+        "gold": "3",
+        "pred": "3.5",
+        "correct": false,
+        "tokens": 482
+      },
+      {
+        "test_index": 690,
+        "gold": "5760",
+        "pred": "5760",
+        "correct": true,
+        "tokens": 526
+      },
+      {
+        "test_index": 1121,
+        "gold": "35",
+        "pred": "35",
+        "correct": true,
+        "tokens": 296
+      },
+      {
+        "test_index": 782,
+        "gold": "54",
+        "pred": "27",
+        "correct": false,
+        "tokens": 311
+      },
+      {
+        "test_index": 662,
+        "gold": "7",
+        "pred": "7",
+        "correct": true,
+        "tokens": 368
+      },
+      {
+        "test_index": 860,
+        "gold": "3",
+        "pred": "3",
+        "correct": true,
+        "tokens": 296
+      },
+      {
+        "test_index": 963,
+        "gold": "147",
+        "pred": "147",
+        "correct": true,
+        "tokens": 575
+      },
+      {
+        "test_index": 1120,
+        "gold": "560",
+        "pred": "560",
+        "correct": true,
+        "tokens": 300
+      },
+      {
+        "test_index": 385,
+        "gold": "16",
+        "pred": "16",
+        "correct": true,
+        "tokens": 333
+      },
+      {
+        "test_index": 842,
+        "gold": "10",
+        "pred": "10",
+        "correct": true,
+        "tokens": 230
+      },
+      {
+        "test_index": 1289,
+        "gold": "101",
+        "pred": "101",
+        "correct": true,
+        "tokens": 420
+      },
+      {
+        "test_index": 1087,
+        "gold": "12",
+        "pred": "12",
+        "correct": true,
+        "tokens": 431
+      },
+      {
+        "test_index": 1015,
+        "gold": "78",
+        "pred": "78",
+        "correct": true,
+        "tokens": 327
+      },
+      {
+        "test_index": 149,
+        "gold": "16",
+        "pred": "16",
+        "correct": true,
+        "tokens": 304
+      },
+      {
+        "test_index": 699,
+        "gold": "8",
+        "pred": "8",
+        "correct": true,
+        "tokens": 277
+      },
+      {
+        "test_index": 1084,
+        "gold": "20",
+        "pred": "20",
+        "correct": true,
+        "tokens": 379
+      },
+      {
+        "test_index": 1192,
+        "gold": "280",
+        "pred": "280",
+        "correct": true,
+        "tokens": 344
+      },
+      {
+        "test_index": 1046,
+        "gold": "189",
+        "pred": "47.25",
+        "correct": false,
+        "tokens": 488
+      },
+      {
+        "test_index": 1123,
+        "gold": "105",
+        "pred": "105",
+        "correct": true,
+        "tokens": 403
+      },
+      {
+        "test_index": 903,
+        "gold": "16",
+        "pred": "16",
+        "correct": true,
+        "tokens": 529
+      },
+      {
+        "test_index": 913,
+        "gold": "6",
+        "pred": "6",
+        "correct": true,
+        "tokens": 423
+      },
+      {
+        "test_index": 7,
+        "gold": "160",
+        "pred": "120",
+        "correct": false,
+        "tokens": 545
+      },
+      {
+        "test_index": 716,
+        "gold": "770",
+        "pred": "770",
+        "correct": true,
+        "tokens": 364
+      },
+      {
+        "test_index": 91,
+        "gold": "28",
+        "pred": "28",
+        "correct": true,
+        "tokens": 303
+      },
+      {
+        "test_index": 184,
+        "gold": "25",
+        "pred": "25",
+        "correct": true,
+        "tokens": 651
+      },
+      {
+        "test_index": 1050,
+        "gold": "655",
+        "pred": "655",
+        "correct": true,
+        "tokens": 283
+      },
+      {
+        "test_index": 1053,
+        "gold": "55",
+        "pred": "55",
+        "correct": true,
+        "tokens": 424
+      },
+      {
+        "test_index": 99,
+        "gold": "58",
+        "pred": "58",
+        "correct": true,
+        "tokens": 373
+      },
+      {
+        "test_index": 426,
+        "gold": "11",
+        "pred": "11",
+        "correct": true,
+        "tokens": 424
+      },
+      {
+        "test_index": 1162,
+        "gold": "3",
+        "pred": "3",
+        "correct": true,
+        "tokens": 182
+      },
+      {
+        "test_index": 144,
+        "gold": "20",
+        "pred": "20",
+        "correct": true,
+        "tokens": 436
+      },
+      {
+        "test_index": 660,
+        "gold": "15",
+        "pred": "15",
+        "correct": true,
+        "tokens": 449
+      },
+      {
+        "test_index": 951,
+        "gold": "300",
+        "pred": "150",
+        "correct": false,
+        "tokens": 324
+      },
+      {
+        "test_index": 1276,
+        "gold": "70",
+        "pred": "70",
+        "correct": true,
+        "tokens": 314
+      },
+      {
+        "test_index": 520,
+        "gold": "63",
+        "pred": "63",
+        "correct": true,
+        "tokens": 350
+      },
+      {
+        "test_index": 1066,
+        "gold": "14",
+        "pred": "14",
+        "correct": true,
+        "tokens": 489
+      },
+      {
+        "test_index": 684,
+        "gold": "11",
+        "pred": "11",
+        "correct": true,
+        "tokens": 353
+      },
+      {
+        "test_index": 825,
+        "gold": "153",
+        "pred": "153",
+        "correct": true,
+        "tokens": 522
+      },
+      {
+        "test_index": 933,
+        "gold": "15",
+        "pred": "15",
+        "correct": true,
+        "tokens": 328
+      },
+      {
+        "test_index": 1077,
+        "gold": "145",
+        "pred": "145",
+        "correct": true,
+        "tokens": 545
+      },
+      {
+        "test_index": 568,
+        "gold": "175",
+        "pred": "175",
+        "correct": true,
+        "tokens": 370
+      },
+      {
+        "test_index": 962,
+        "gold": "1000",
+        "pred": "600",
+        "correct": false,
+        "tokens": 321
+      },
+      {
+        "test_index": 1216,
+        "gold": "20",
+        "pred": "20",
+        "correct": true,
+        "tokens": 360
+      },
+      {
+        "test_index": 390,
+        "gold": "12",
+        "pred": "12",
+        "correct": true,
+        "tokens": 322
+      },
+      {
+        "test_index": 732,
+        "gold": "87",
+        "pred": "87",
+        "correct": true,
+        "tokens": 415
+      },
+      {
+        "test_index": 554,
+        "gold": "54",
+        "pred": "54",
+        "correct": true,
+        "tokens": 456
+      },
+      {
+        "test_index": 1047,
+        "gold": "10",
+        "pred": "10",
+        "correct": true,
+        "tokens": 517
+      },
+      {
+        "test_index": 503,
+        "gold": "18",
+        "pred": "18",
+        "correct": true,
+        "tokens": 324
+      }
+    ],
+    "ours": [
+      {
+        "test_index": 588,
+        "gold": "52",
+        "pred": "52",
+        "correct": true,
+        "tokens": 1712
+      },
+      {
+        "test_index": 1214,
+        "gold": "5",
+        "pred": "5",
+        "correct": true,
+        "tokens": 1684
+      },
+      {
+        "test_index": 57,
+        "gold": "83",
+        "pred": "83",
+        "correct": true,
+        "tokens": 2444
+      },
+      {
+        "test_index": 906,
+        "gold": "10",
+        "pred": "10",
+        "correct": true,
+        "tokens": 2592
+      },
+      {
+        "test_index": 1252,
+        "gold": "70",
+        "pred": "70",
+        "correct": true,
+        "tokens": 2497
+      },
+      {
+        "test_index": 618,
+        "gold": "36",
+        "pred": "36",
+        "correct": true,
+        "tokens": 2335
+      },
+      {
+        "test_index": 599,
+        "gold": "48",
+        "pred": "48",
+        "correct": true,
+        "tokens": 1569
+      },
+      {
+        "test_index": 289,
+        "gold": "16",
+        "pred": "16",
+        "correct": true,
+        "tokens": 1750
+      },
+      {
+        "test_index": 608,
+        "gold": "8",
+        "pred": "8",
+        "correct": true,
+        "tokens": 2553
+      },
+      {
+        "test_index": 400,
+        "gold": "48",
+        "pred": "48",
+        "correct": true,
+        "tokens": 1576
+      },
+      {
+        "test_index": 237,
+        "gold": "90",
+        "pred": "90",
+        "correct": true,
+        "tokens": 1667
+      },
+      {
+        "test_index": 616,
+        "gold": "10",
+        "pred": "10",
+        "correct": true,
+        "tokens": 1558
+      },
+      {
+        "test_index": 672,
+        "gold": "2",
+        "pred": "2",
+        "correct": true,
+        "tokens": 3257
+      },
+      {
+        "test_index": 1132,
+        "gold": "45000",
+        "pred": "45000",
+        "correct": true,
+        "tokens": 2076
+      },
+      {
+        "test_index": 463,
+        "gold": "18",
+        "pred": "18",
+        "correct": true,
+        "tokens": 1550
+      },
+      {
+        "test_index": 222,
+        "gold": "140",
+        "pred": "140",
+        "correct": true,
+        "tokens": 1879
+      },
+      {
+        "test_index": 945,
+        "gold": "17",
+        "pred": "17",
+        "correct": true,
+        "tokens": 2933
+      },
+      {
+        "test_index": 238,
+        "gold": "68",
+        "pred": "68",
+        "correct": true,
+        "tokens": 1985
+      },
+      {
+        "test_index": 730,
+        "gold": "8",
+        "pred": "8",
+        "correct": true,
+        "tokens": 1610
+      },
+      {
+        "test_index": 55,
+        "gold": "14",
+        "pred": "14",
+        "correct": true,
+        "tokens": 1482
+      },
+      {
+        "test_index": 772,
+        "gold": "50",
+        "pred": "50",
+        "correct": true,
+        "tokens": 3046
+      },
+      {
+        "test_index": 176,
+        "gold": "100",
+        "pred": "100",
+        "correct": true,
+        "tokens": 1659
+      },
+      {
+        "test_index": 15,
+        "gold": "125",
+        "pred": "125",
+        "correct": true,
+        "tokens": 2777
+      },
+      {
+        "test_index": 66,
+        "gold": "48",
+        "pred": "48",
+        "correct": true,
+        "tokens": 2317
+      },
+      {
+        "test_index": 479,
+        "gold": "15400",
+        "pred": "15400",
+        "correct": true,
+        "tokens": 2607
+      },
+      {
+        "test_index": 896,
+        "gold": "250",
+        "pred": "250",
+        "correct": true,
+        "tokens": 1628
+      },
+      {
+        "test_index": 1122,
+        "gold": "18",
+        "pred": "18",
+        "correct": true,
+        "tokens": 3353
+      },
+      {
+        "test_index": 1005,
+        "gold": "1490",
+        "pred": "1490",
+        "correct": true,
+        "tokens": 2723
+      },
+      {
+        "test_index": 480,
+        "gold": "11",
+        "pred": "11",
+        "correct": true,
+        "tokens": 1942
+      },
+      {
+        "test_index": 187,
+        "gold": "106",
+        "pred": "106.12",
+        "correct": false,
+        "tokens": 2674
+      },
+      {
+        "test_index": 275,
+        "gold": "138",
+        "pred": "138",
+        "correct": true,
+        "tokens": 3041
+      },
+      {
+        "test_index": 868,
+        "gold": "15",
+        "pred": "15",
+        "correct": true,
+        "tokens": 2206
+      },
+      {
+        "test_index": 921,
+        "gold": "4",
+        "pred": "4",
+        "correct": true,
+        "tokens": 1796
+      },
+      {
+        "test_index": 562,
+        "gold": "82",
+        "pred": "82",
+        "correct": true,
+        "tokens": 2123
+      },
+      {
+        "test_index": 1082,
+        "gold": "2",
+        "pred": "2",
+        "correct": true,
+        "tokens": 3015
+      },
+      {
+        "test_index": 172,
+        "gold": "51",
+        "pred": "51",
+        "correct": true,
+        "tokens": 2182
+      },
+      {
+        "test_index": 770,
+        "gold": "4",
+        "pred": "4",
+        "correct": true,
+        "tokens": 2070
+      },
+      {
+        "test_index": 1191,
+        "gold": "100",
+        "pred": "100",
+        "correct": true,
+        "tokens": 2056
+      },
+      {
+        "test_index": 413,
+        "gold": "25",
+        "pred": "25",
+        "correct": true,
+        "tokens": 2461
+      },
+      {
+        "test_index": 537,
+        "gold": "188",
+        "pred": "188",
+        "correct": true,
+        "tokens": 2252
+      },
+      {
+        "test_index": 1154,
+        "gold": "30",
+        "pred": "30",
+        "correct": true,
+        "tokens": 1452
+      },
+      {
+        "test_index": 1308,
+        "gold": "30",
+        "pred": "30",
+        "correct": true,
+        "tokens": 1490
+      },
+      {
+        "test_index": 454,
+        "gold": "150",
+        "pred": "240",
+        "correct": false,
+        "tokens": 1406
+      },
+      {
+        "test_index": 280,
+        "gold": "7",
+        "pred": "7",
+        "correct": true,
+        "tokens": 1502
+      },
+      {
+        "test_index": 177,
+        "gold": "350",
+        "pred": "350",
+        "correct": true,
+        "tokens": 3651
+      },
+      {
+        "test_index": 923,
+        "gold": "2",
+        "pred": "6",
+        "correct": false,
+        "tokens": 3186
+      },
+      {
+        "test_index": 677,
+        "gold": "36",
+        "pred": "36",
+        "correct": true,
+        "tokens": 1939
+      },
+      {
+        "test_index": 1176,
+        "gold": "2",
+        "pred": "1",
+        "correct": false,
+        "tokens": 3470
+      },
+      {
+        "test_index": 21,
+        "gold": "14",
+        "pred": "14",
+        "correct": true,
+        "tokens": 1728
+      },
+      {
+        "test_index": 970,
+        "gold": "33",
+        "pred": "33",
+        "correct": true,
+        "tokens": 1427
+      },
+      {
+        "test_index": 356,
+        "gold": "21",
+        "pred": "21",
+        "correct": true,
+        "tokens": 2448
+      },
+      {
+        "test_index": 100,
+        "gold": "175",
+        "pred": "705",
+        "correct": false,
+        "tokens": 2889
+      },
+      {
+        "test_index": 132,
+        "gold": "60",
+        "pred": "60",
+        "correct": true,
+        "tokens": 2614
+      },
+      {
+        "test_index": 364,
+        "gold": "49",
+        "pred": "49",
+        "correct": true,
+        "tokens": 1871
+      },
+      {
+        "test_index": 969,
+        "gold": "1800",
+        "pred": "1800",
+        "correct": true,
+        "tokens": 1521
+      },
+      {
+        "test_index": 1273,
+        "gold": "27",
+        "pred": "27",
+        "correct": true,
+        "tokens": 2152
+      },
+      {
+        "test_index": 143,
+        "gold": "16",
+        "pred": "16",
+        "correct": true,
+        "tokens": 2514
+      },
+      {
+        "test_index": 442,
+        "gold": "49",
+        "pred": "49",
+        "correct": true,
+        "tokens": 2435
+      },
+      {
+        "test_index": 464,
+        "gold": "6",
+        "pred": "6",
+        "correct": true,
+        "tokens": 1945
+      },
+      {
+        "test_index": 1089,
+        "gold": "32",
+        "pred": "32",
+        "correct": true,
+        "tokens": 2146
+      },
+      {
+        "test_index": 259,
+        "gold": "168",
+        "pred": "168",
+        "correct": true,
+        "tokens": 2309
+      },
+      {
+        "test_index": 90,
+        "gold": "225",
+        "pred": "225",
+        "correct": true,
+        "tokens": 1789
+      },
+      {
+        "test_index": 998,
+        "gold": "50",
+        "pred": "50",
+        "correct": true,
+        "tokens": 1913
+      },
+      {
+        "test_index": 989,
+        "gold": "45",
+        "pred": "30",
+        "correct": false,
+        "tokens": 2122
+      },
+      {
+        "test_index": 22,
+        "gold": "7",
+        "pred": "7",
+        "correct": true,
+        "tokens": 1913
+      },
+      {
+        "test_index": 586,
+        "gold": "800",
+        "pred": "800",
+        "correct": true,
+        "tokens": 2033
+      },
+      {
+        "test_index": 756,
+        "gold": "22",
+        "pred": "22",
+        "correct": true,
+        "tokens": 1856
+      },
+      {
+        "test_index": 1261,
+        "gold": "235",
+        "pred": "235",
+        "correct": true,
+        "tokens": 2422
+      },
+      {
+        "test_index": 296,
+        "gold": "3",
+        "pred": "3",
+        "correct": true,
+        "tokens": 1961
+      },
+      {
+        "test_index": 383,
+        "gold": "2",
+        "pred": "2",
+        "correct": true,
+        "tokens": 2814
+      },
+      {
+        "test_index": 709,
+        "gold": "3000",
+        "pred": "3000",
+        "correct": true,
+        "tokens": 2865
+      },
+      {
+        "test_index": 1069,
+        "gold": "300",
+        "pred": "300",
+        "correct": true,
+        "tokens": 2110
+      },
+      {
+        "test_index": 1141,
+        "gold": "20",
+        "pred": "20",
+        "correct": true,
+        "tokens": 1506
+      },
+      {
+        "test_index": 179,
+        "gold": "130",
+        "pred": "130",
+        "correct": true,
+        "tokens": 1424
+      },
+      {
+        "test_index": 731,
+        "gold": "1",
+        "pred": "1",
+        "correct": true,
+        "tokens": 2338
+      },
+      {
+        "test_index": 1241,
+        "gold": "8",
+        "pred": "8",
+        "correct": true,
+        "tokens": 2505
+      },
+      {
+        "test_index": 371,
+        "gold": "50",
+        "pred": "50",
+        "correct": true,
+        "tokens": 2328
+      },
+      {
+        "test_index": 107,
+        "gold": "3",
+        "pred": "3",
+        "correct": true,
+        "tokens": 3431
+      },
+      {
+        "test_index": 1115,
+        "gold": "5",
+        "pred": "5",
+        "correct": true,
+        "tokens": 2376
+      },
+      {
+        "test_index": 851,
+        "gold": "110",
+        "pred": "110",
+        "correct": true,
+        "tokens": 1655
+      },
+      {
+        "test_index": 303,
+        "gold": "1300",
+        "pred": "1300",
+        "correct": true,
+        "tokens": 3033
+      },
+      {
+        "test_index": 535,
+        "gold": "16",
+        "pred": "16",
+        "correct": true,
+        "tokens": 1716
+      },
+      {
+        "test_index": 544,
+        "gold": "80",
+        "pred": "80",
+        "correct": true,
+        "tokens": 1579
+      },
+      {
+        "test_index": 374,
+        "gold": "45",
+        "pred": "45",
+        "correct": true,
+        "tokens": 2072
+      },
+      {
+        "test_index": 387,
+        "gold": "36",
+        "pred": "36",
+        "correct": true,
+        "tokens": 1739
+      },
+      {
+        "test_index": 434,
+        "gold": "5",
+        "pred": "5",
+        "correct": true,
+        "tokens": 3032
+      },
+      {
+        "test_index": 706,
+        "gold": "9",
+        "pred": "9",
+        "correct": true,
+        "tokens": 2467
+      },
+      {
+        "test_index": 347,
+        "gold": "36",
+        "pred": "36",
+        "correct": true,
+        "tokens": 1633
+      },
+      {
+        "test_index": 811,
+        "gold": "60",
+        "pred": "60",
+        "correct": true,
+        "tokens": 2158
+      },
+      {
+        "test_index": 35,
+        "gold": "9",
+        "pred": "9",
+        "correct": true,
+        "tokens": 2004
+      },
+      {
+        "test_index": 892,
+        "gold": "1",
+        "pred": "1",
+        "correct": true,
+        "tokens": 1970
+      },
+      {
+        "test_index": 314,
+        "gold": "30",
+        "pred": "30",
+        "correct": true,
+        "tokens": 2947
+      },
+      {
+        "test_index": 2,
+        "gold": "70000",
+        "pred": "70000",
+        "correct": true,
+        "tokens": 2218
+      },
+      {
+        "test_index": 944,
+        "gold": "34",
+        "pred": "34",
+        "correct": true,
+        "tokens": 2406
+      },
+      {
+        "test_index": 687,
+        "gold": "13",
+        "pred": "13",
+        "correct": true,
+        "tokens": 2293
+      },
+      {
+        "test_index": 1184,
+        "gold": "306",
+        "pred": "306",
+        "correct": true,
+        "tokens": 1949
+      },
+      {
+        "test_index": 297,
+        "gold": "55",
+        "pred": "55",
+        "correct": true,
+        "tokens": 2343
+      },
+      {
+        "test_index": 1068,
+        "gold": "24",
+        "pred": "24",
+        "correct": true,
+        "tokens": 3004
+      },
+      {
+        "test_index": 792,
+        "gold": "75",
+        "pred": "75",
+        "correct": true,
+        "tokens": 1755
+      },
+      {
+        "test_index": 932,
+        "gold": "24",
+        "pred": "20",
+        "correct": false,
+        "tokens": 2848
+      },
+      {
+        "test_index": 405,
+        "gold": "50",
+        "pred": "50",
+        "correct": true,
+        "tokens": 2150
+      },
+      {
+        "test_index": 863,
+        "gold": "110",
+        "pred": "110",
+        "correct": true,
+        "tokens": 2228
+      },
+      {
+        "test_index": 953,
+        "gold": "452",
+        "pred": "475",
+        "correct": false,
+        "tokens": 2991
+      },
+      {
+        "test_index": 49,
+        "gold": "30",
+        "pred": "30",
+        "correct": true,
+        "tokens": 1998
+      },
+      {
+        "test_index": 474,
+        "gold": "80",
+        "pred": "80",
+        "correct": true,
+        "tokens": 1671
+      },
+      {
+        "test_index": 410,
+        "gold": "3",
+        "pred": "3",
+        "correct": true,
+        "tokens": 3095
+      },
+      {
+        "test_index": 705,
+        "gold": "120",
+        "pred": "120",
+        "correct": true,
+        "tokens": 1694
+      },
+      {
+        "test_index": 528,
+        "gold": "172",
+        "pred": "172",
+        "correct": true,
+        "tokens": 3542
+      },
+      {
+        "test_index": 220,
+        "gold": "70",
+        "pred": "70",
+        "correct": true,
+        "tokens": 1441
+      },
+      {
+        "test_index": 1299,
+        "gold": "13",
+        "pred": "13",
+        "correct": true,
+        "tokens": 1979
+      },
+      {
+        "test_index": 1212,
+        "gold": "150",
+        "pred": "150",
+        "correct": true,
+        "tokens": 1804
+      },
+      {
+        "test_index": 368,
+        "gold": "18",
+        "pred": "10",
+        "correct": false,
+        "tokens": 2188
+      },
+      {
+        "test_index": 926,
+        "gold": "1",
+        "pred": "1",
+        "correct": true,
+        "tokens": 3661
+      },
+      {
+        "test_index": 243,
+        "gold": "250",
+        "pred": "250",
+        "correct": true,
+        "tokens": 1970
+      },
+      {
+        "test_index": 56,
+        "gold": "3",
+        "pred": "3",
+        "correct": true,
+        "tokens": 1736
+      },
+      {
+        "test_index": 889,
+        "gold": "15",
+        "pred": "15",
+        "correct": true,
+        "tokens": 1683
+      },
+      {
+        "test_index": 1234,
+        "gold": "12",
+        "pred": "12",
+        "correct": true,
+        "tokens": 1580
+      },
+      {
+        "test_index": 69,
+        "gold": "60",
+        "pred": "60",
+        "correct": true,
+        "tokens": 1676
+      },
+      {
+        "test_index": 1157,
+        "gold": "3",
+        "pred": "3",
+        "correct": true,
+        "tokens": 1676
+      },
+      {
+        "test_index": 1193,
+        "gold": "9",
+        "pred": "9",
+        "correct": true,
+        "tokens": 2918
+      },
+      {
+        "test_index": 1293,
+        "gold": "140000",
+        "pred": "140000",
+        "correct": true,
+        "tokens": 1674
+      },
+      {
+        "test_index": 749,
+        "gold": "3",
+        "pred": "6",
+        "correct": false,
+        "tokens": 1681
+      },
+      {
+        "test_index": 1054,
+        "gold": "2400",
+        "pred": "2400",
+        "correct": true,
+        "tokens": 2049
+      },
+      {
+        "test_index": 269,
+        "gold": "4",
+        "pred": "4",
+        "correct": true,
+        "tokens": 1410
+      },
+      {
+        "test_index": 812,
+        "gold": "79",
+        "pred": "79",
+        "correct": true,
+        "tokens": 3308
+      },
+      {
+        "test_index": 1143,
+        "gold": "300",
+        "pred": "300",
+        "correct": true,
+        "tokens": 1414
+      },
+      {
+        "test_index": 192,
+        "gold": "91",
+        "pred": "91",
+        "correct": true,
+        "tokens": 2501
+      },
+      {
+        "test_index": 623,
+        "gold": "8",
+        "pred": "8",
+        "correct": true,
+        "tokens": 1382
+      },
+      {
+        "test_index": 678,
+        "gold": "120",
+        "pred": "120",
+        "correct": true,
+        "tokens": 1774
+      },
+      {
+        "test_index": 382,
+        "gold": "350",
+        "pred": "350",
+        "correct": true,
+        "tokens": 2298
+      },
+      {
+        "test_index": 207,
+        "gold": "2600",
+        "pred": "2600",
+        "correct": true,
+        "tokens": 2103
+      },
+      {
+        "test_index": 848,
+        "gold": "10",
+        "pred": "10",
+        "correct": true,
+        "tokens": 2009
+      },
+      {
+        "test_index": 428,
+        "gold": "26",
+        "pred": "4",
+        "correct": false,
+        "tokens": 2743
+      },
+      {
+        "test_index": 622,
+        "gold": "7",
+        "pred": "7",
+        "correct": true,
+        "tokens": 3005
+      },
+      {
+        "test_index": 1213,
+        "gold": "31",
+        "pred": "31",
+        "correct": true,
+        "tokens": 2511
+      },
+      {
+        "test_index": 847,
+        "gold": "975",
+        "pred": "975",
+        "correct": true,
+        "tokens": 2441
+      },
+      {
+        "test_index": 44,
+        "gold": "20",
+        "pred": "20",
+        "correct": true,
+        "tokens": 2645
+      },
+      {
+        "test_index": 658,
+        "gold": "120",
+        "pred": "50",
+        "correct": false,
+        "tokens": 2829
+      },
+      {
+        "test_index": 591,
+        "gold": "220",
+        "pred": "220",
+        "correct": true,
+        "tokens": 1709
+      },
+      {
+        "test_index": 342,
+        "gold": "87",
+        "pred": "87",
+        "correct": true,
+        "tokens": 1579
+      },
+      {
+        "test_index": 1024,
+        "gold": "300",
+        "pred": "300",
+        "correct": true,
+        "tokens": 2123
+      },
+      {
+        "test_index": 1251,
+        "gold": "30",
+        "pred": "30",
+        "correct": true,
+        "tokens": 2707
+      },
+      {
+        "test_index": 439,
+        "gold": "17",
+        "pred": "17",
+        "correct": true,
+        "tokens": 2872
+      },
+      {
+        "test_index": 491,
+        "gold": "16",
+        "pred": "16",
+        "correct": true,
+        "tokens": 1741
+      },
+      {
+        "test_index": 856,
+        "gold": "7",
+        "pred": "7",
+        "correct": true,
+        "tokens": 2101
+      },
+      {
+        "test_index": 547,
+        "gold": "81",
+        "pred": "81",
+        "correct": true,
+        "tokens": 1872
+      },
+      {
+        "test_index": 1224,
+        "gold": "5",
+        "pred": "5",
+        "correct": true,
+        "tokens": 1792
+      },
+      {
+        "test_index": 346,
+        "gold": "9",
+        "pred": "9",
+        "correct": true,
+        "tokens": 2271
+      },
+      {
+        "test_index": 655,
+        "gold": "10",
+        "pred": "10",
+        "correct": true,
+        "tokens": 1731
+      },
+      {
+        "test_index": 1188,
+        "gold": "24",
+        "pred": "24",
+        "correct": true,
+        "tokens": 2420
+      },
+      {
+        "test_index": 272,
+        "gold": "5",
+        "pred": "5",
+        "correct": true,
+        "tokens": 1775
+      },
+      {
+        "test_index": 231,
+        "gold": "50",
+        "pred": "75",
+        "correct": false,
+        "tokens": 1680
+      },
+      {
+        "test_index": 578,
+        "gold": "48",
+        "pred": "48",
+        "correct": true,
+        "tokens": 3526
+      },
+      {
+        "test_index": 113,
+        "gold": "25",
+        "pred": "25",
+        "correct": true,
+        "tokens": 1225
+      },
+      {
+        "test_index": 1245,
+        "gold": "96",
+        "pred": "96",
+        "correct": true,
+        "tokens": 2176
+      },
+      {
+        "test_index": 999,
+        "gold": "25",
+        "pred": "25",
+        "correct": true,
+        "tokens": 2499
+      },
+      {
+        "test_index": 844,
+        "gold": "180",
+        "pred": "180",
+        "correct": true,
+        "tokens": 2504
+      },
+      {
+        "test_index": 1150,
+        "gold": "21",
+        "pred": "21",
+        "correct": true,
+        "tokens": 1167
+      },
+      {
+        "test_index": 1194,
+        "gold": "1200",
+        "pred": "1200",
+        "correct": true,
+        "tokens": 1527
+      },
+      {
+        "test_index": 73,
+        "gold": "255",
+        "pred": "255",
+        "correct": true,
+        "tokens": 2133
+      },
+      {
+        "test_index": 628,
+        "gold": "4",
+        "pred": "4",
+        "correct": true,
+        "tokens": 2256
+      },
+      {
+        "test_index": 773,
+        "gold": "10",
+        "pred": "10",
+        "correct": true,
+        "tokens": 1804
+      },
+      {
+        "test_index": 910,
+        "gold": "700",
+        "pred": "700",
+        "correct": true,
+        "tokens": 2170
+      },
+      {
+        "test_index": 1108,
+        "gold": "38",
+        "pred": "38",
+        "correct": true,
+        "tokens": 1646
+      },
+      {
+        "test_index": 1135,
+        "gold": "32",
+        "pred": "32",
+        "correct": true,
+        "tokens": 2035
+      },
+      {
+        "test_index": 967,
+        "gold": "30",
+        "pred": "30",
+        "correct": true,
+        "tokens": 2289
+      },
+      {
+        "test_index": 160,
+        "gold": "16",
+        "pred": "16",
+        "correct": true,
+        "tokens": 1737
+      },
+      {
+        "test_index": 585,
+        "gold": "40",
+        "pred": "40",
+        "correct": true,
+        "tokens": 2679
+      },
+      {
+        "test_index": 1210,
+        "gold": "288",
+        "pred": "288",
+        "correct": true,
+        "tokens": 1782
+      },
+      {
+        "test_index": 745,
+        "gold": "1100",
+        "pred": "1100",
+        "correct": true,
+        "tokens": 2384
+      },
+      {
+        "test_index": 1281,
+        "gold": "20",
+        "pred": "20",
+        "correct": true,
+        "tokens": 1715
+      },
+      {
+        "test_index": 328,
+        "gold": "2",
+        "pred": "2",
+        "correct": true,
+        "tokens": 1819
+      },
+      {
+        "test_index": 796,
+        "gold": "2880000",
+        "pred": "2640000",
+        "correct": false,
+        "tokens": 2368
+      },
+      {
+        "test_index": 524,
+        "gold": "9",
+        "pred": "9",
+        "correct": true,
+        "tokens": 1817
+      },
+      {
+        "test_index": 874,
+        "gold": "132",
+        "pred": "132",
+        "correct": true,
+        "tokens": 1311
+      },
+      {
+        "test_index": 1172,
+        "gold": "93",
+        "pred": "93",
+        "correct": true,
+        "tokens": 2226
+      },
+      {
+        "test_index": 738,
+        "gold": "4",
+        "pred": "4",
+        "correct": true,
+        "tokens": 1732
+      },
+      {
+        "test_index": 1072,
+        "gold": "85",
+        "pred": "85",
+        "correct": true,
+        "tokens": 2395
+      },
+      {
+        "test_index": 615,
+        "gold": "33",
+        "pred": "33",
+        "correct": true,
+        "tokens": 2643
+      },
+      {
+        "test_index": 845,
+        "gold": "12",
+        "pred": "12",
+        "correct": true,
+        "tokens": 2668
+      },
+      {
+        "test_index": 1259,
+        "gold": "7200",
+        "pred": "7200",
+        "correct": true,
+        "tokens": 1788
+      },
+      {
+        "test_index": 875,
+        "gold": "60",
+        "pred": "60",
+        "correct": true,
+        "tokens": 1652
+      },
+      {
+        "test_index": 661,
+        "gold": "44",
+        "pred": "44",
+        "correct": true,
+        "tokens": 2403
+      },
+      {
+        "test_index": 1102,
+        "gold": "113",
+        "pred": "113",
+        "correct": true,
+        "tokens": 3244
+      },
+      {
+        "test_index": 640,
+        "gold": "43500",
+        "pred": "43500",
+        "correct": true,
+        "tokens": 3509
+      },
+      {
+        "test_index": 134,
+        "gold": "720",
+        "pred": "720",
+        "correct": true,
+        "tokens": 1399
+      },
+      {
+        "test_index": 188,
+        "gold": "50",
+        "pred": "50",
+        "correct": true,
+        "tokens": 1908
+      },
+      {
+        "test_index": 112,
+        "gold": "24",
+        "pred": "24",
+        "correct": true,
+        "tokens": 1438
+      },
+      {
+        "test_index": 751,
+        "gold": "43",
+        "pred": "43",
+        "correct": true,
+        "tokens": 2436
+      },
+      {
+        "test_index": 612,
+        "gold": "30",
+        "pred": "30",
+        "correct": true,
+        "tokens": 2445
+      },
+      {
+        "test_index": 1301,
+        "gold": "23",
+        "pred": "23",
+        "correct": true,
+        "tokens": 3032
+      },
+      {
+        "test_index": 1071,
+        "gold": "251",
+        "pred": "251",
+        "correct": true,
+        "tokens": 2510
+      },
+      {
+        "test_index": 32,
+        "gold": "35",
+        "pred": "35",
+        "correct": true,
+        "tokens": 1638
+      },
+      {
+        "test_index": 943,
+        "gold": "50",
+        "pred": "125",
+        "correct": false,
+        "tokens": 2743
+      },
+      {
+        "test_index": 126,
+        "gold": "82",
+        "pred": "82",
+        "correct": true,
+        "tokens": 1893
+      },
+      {
+        "test_index": 651,
+        "gold": "2100",
+        "pred": "2100",
+        "correct": true,
+        "tokens": 3263
+      },
+      {
+        "test_index": 1014,
+        "gold": "3",
+        "pred": "3",
+        "correct": true,
+        "tokens": 3024
+      },
+      {
+        "test_index": 1163,
+        "gold": "12",
+        "pred": "12",
+        "correct": true,
+        "tokens": 1304
+      },
+      {
+        "test_index": 846,
+        "gold": "11",
+        "pred": "10",
+        "correct": false,
+        "tokens": 2382
+      },
+      {
+        "test_index": 97,
+        "gold": "12",
+        "pred": "12",
+        "correct": true,
+        "tokens": 1763
+      },
+      {
+        "test_index": 510,
+        "gold": "525",
+        "pred": "617.65",
+        "correct": false,
+        "tokens": 3885
+      },
+      {
+        "test_index": 121,
+        "gold": "27",
+        "pred": "27",
+        "correct": true,
+        "tokens": 2239
+      },
+      {
+        "test_index": 190,
+        "gold": "360",
+        "pred": "360",
+        "correct": true,
+        "tokens": 1233
+      },
+      {
+        "test_index": 990,
+        "gold": "14",
+        "pred": "0",
+        "correct": false,
+        "tokens": 3788
+      },
+      {
+        "test_index": 11,
+        "gold": "694",
+        "pred": "694",
+        "correct": true,
+        "tokens": 2362
+      },
+      {
+        "test_index": 914,
+        "gold": "3",
+        "pred": "3",
+        "correct": true,
+        "tokens": 1401
+      },
+      {
+        "test_index": 1107,
+        "gold": "360",
+        "pred": "360",
+        "correct": true,
+        "tokens": 2098
+      },
+      {
+        "test_index": 298,
+        "gold": "500",
+        "pred": "400",
+        "correct": false,
+        "tokens": 1948
+      },
+      {
+        "test_index": 886,
+        "gold": "20",
+        "pred": "20",
+        "correct": true,
+        "tokens": 1838
+      },
+      {
+        "test_index": 1246,
+        "gold": "3360",
+        "pred": "3360",
+        "correct": true,
+        "tokens": 1883
+      },
+      {
+        "test_index": 540,
+        "gold": "39",
+        "pred": "13",
+        "correct": false,
+        "tokens": 2782
+      },
+      {
+        "test_index": 982,
+        "gold": "12",
+        "pred": "12",
+        "correct": true,
+        "tokens": 2714
+      },
+      {
+        "test_index": 581,
+        "gold": "215",
+        "pred": "215",
+        "correct": true,
+        "tokens": 2179
+      },
+      {
+        "test_index": 783,
+        "gold": "4",
+        "pred": "4",
+        "correct": true,
+        "tokens": 3731
+      },
+      {
+        "test_index": 673,
+        "gold": "9",
+        "pred": "9",
+        "correct": true,
+        "tokens": 1647
+      },
+      {
+        "test_index": 1238,
+        "gold": "520",
+        "pred": "520",
+        "correct": true,
+        "tokens": 2372
+      },
+      {
+        "test_index": 261,
+        "gold": "62",
+        "pred": "62",
+        "correct": true,
+        "tokens": 1946
+      },
+      {
+        "test_index": 531,
+        "gold": "66",
+        "pred": "66",
+        "correct": true,
+        "tokens": 2655
+      },
+      {
+        "test_index": 1167,
+        "gold": "120",
+        "pred": "120",
+        "correct": true,
+        "tokens": 1548
+      },
+      {
+        "test_index": 983,
+        "gold": "15",
+        "pred": "15",
+        "correct": true,
+        "tokens": 1620
+      },
+      {
+        "test_index": 1110,
+        "gold": "60",
+        "pred": "60",
+        "correct": true,
+        "tokens": 3024
+      },
+      {
+        "test_index": 580,
+        "gold": "500",
+        "pred": "499.92",
+        "correct": false,
+        "tokens": 2739
+      },
+      {
+        "test_index": 901,
+        "gold": "1",
+        "pred": "0",
+        "correct": false,
+        "tokens": 2114
+      },
+      {
+        "test_index": 942,
+        "gold": "205",
+        "pred": "205",
+        "correct": true,
+        "tokens": 1864
+      },
+      {
+        "test_index": 681,
+        "gold": "298",
+        "pred": "298",
+        "correct": true,
+        "tokens": 2962
+      },
+      {
+        "test_index": 526,
+        "gold": "21",
+        "pred": "21",
+        "correct": true,
+        "tokens": 3818
+      },
+      {
+        "test_index": 125,
+        "gold": "10",
+        "pred": "10",
+        "correct": true,
+        "tokens": 2686
+      },
+      {
+        "test_index": 423,
+        "gold": "8",
+        "pred": "6",
+        "correct": false,
+        "tokens": 2801
+      },
+      {
+        "test_index": 1026,
+        "gold": "43200",
+        "pred": "43200",
+        "correct": true,
+        "tokens": 2162
+      },
+      {
+        "test_index": 888,
+        "gold": "10",
+        "pred": "10",
+        "correct": true,
+        "tokens": 1523
+      },
+      {
+        "test_index": 214,
+        "gold": "8",
+        "pred": "8",
+        "correct": true,
+        "tokens": 3908
+      },
+      {
+        "test_index": 1215,
+        "gold": "36",
+        "pred": "36",
+        "correct": true,
+        "tokens": 3965
+      },
+      {
+        "test_index": 978,
+        "gold": "160",
+        "pred": "160",
+        "correct": true,
+        "tokens": 2146
+      },
+      {
+        "test_index": 498,
+        "gold": "40",
+        "pred": "40",
+        "correct": true,
+        "tokens": 1569
+      },
+      {
+        "test_index": 1070,
+        "gold": "18",
+        "pred": "18",
+        "correct": true,
+        "tokens": 2807
+      },
+      {
+        "test_index": 525,
+        "gold": "12",
+        "pred": "12",
+        "correct": true,
+        "tokens": 2676
+      },
+      {
+        "test_index": 68,
+        "gold": "36",
+        "pred": "36",
+        "correct": true,
+        "tokens": 1781
+      },
+      {
+        "test_index": 1148,
+        "gold": "9",
+        "pred": "9",
+        "correct": true,
+        "tokens": 1565
+      },
+      {
+        "test_index": 818,
+        "gold": "16",
+        "pred": "16",
+        "correct": true,
+        "tokens": 2111
+      },
+      {
+        "test_index": 828,
+        "gold": "60",
+        "pred": "60",
+        "correct": true,
+        "tokens": 1773
+      },
+      {
+        "test_index": 402,
+        "gold": "4",
+        "pred": "4",
+        "correct": true,
+        "tokens": 2654
+      },
+      {
+        "test_index": 771,
+        "gold": "3",
+        "pred": "3",
+        "correct": true,
+        "tokens": 2034
+      },
+      {
+        "test_index": 202,
+        "gold": "100",
+        "pred": "100",
+        "correct": true,
+        "tokens": 1629
+      },
+      {
+        "test_index": 1288,
+        "gold": "34",
+        "pred": "34",
+        "correct": true,
+        "tokens": 2631
+      },
+      {
+        "test_index": 1075,
+        "gold": "16",
+        "pred": "16",
+        "correct": true,
+        "tokens": 2358
+      },
+      {
+        "test_index": 522,
+        "gold": "29",
+        "pred": "29",
+        "correct": true,
+        "tokens": 2907
+      },
+      {
+        "test_index": 894,
+        "gold": "26",
+        "pred": "2",
+        "correct": false,
+        "tokens": 3810
+      },
+      {
+        "test_index": 34,
+        "gold": "23",
+        "pred": "23",
+        "correct": true,
+        "tokens": 1692
+      },
+      {
+        "test_index": 1129,
+        "gold": "8",
+        "pred": "8",
+        "correct": true,
+        "tokens": 3458
+      },
+      {
+        "test_index": 1147,
+        "gold": "22",
+        "pred": "9",
+        "correct": false,
+        "tokens": 3205
+      },
+      {
+        "test_index": 1056,
+        "gold": "156",
+        "pred": "156",
+        "correct": true,
+        "tokens": 3042
+      },
+      {
+        "test_index": 153,
+        "gold": "48",
+        "pred": "48",
+        "correct": true,
+        "tokens": 4004
+      },
+      {
+        "test_index": 235,
+        "gold": "10",
+        "pred": "11",
+        "correct": false,
+        "tokens": 2082
+      },
+      {
+        "test_index": 48,
+        "gold": "8",
+        "pred": "8",
+        "correct": true,
+        "tokens": 1432
+      },
+      {
+        "test_index": 492,
+        "gold": "32",
+        "pred": "32",
+        "correct": true,
+        "tokens": 1186
+      },
+      {
+        "test_index": 871,
+        "gold": "48",
+        "pred": "48",
+        "correct": true,
+        "tokens": 2801
+      },
+      {
+        "test_index": 869,
+        "gold": "500",
+        "pred": "500",
+        "correct": true,
+        "tokens": 1598
+      },
+      {
+        "test_index": 1004,
+        "gold": "8",
+        "pred": "8",
+        "correct": true,
+        "tokens": 2000
+      },
+      {
+        "test_index": 241,
+        "gold": "6",
+        "pred": "6",
+        "correct": true,
+        "tokens": 1659
+      },
+      {
+        "test_index": 489,
+        "gold": "-10",
+        "pred": "-10",
+        "correct": true,
+        "tokens": 1877
+      },
+      {
+        "test_index": 212,
+        "gold": "5",
+        "pred": "5",
+        "correct": true,
+        "tokens": 2399
+      },
+      {
+        "test_index": 536,
+        "gold": "8",
+        "pred": "8",
+        "correct": true,
+        "tokens": 1430
+      },
+      {
+        "test_index": 887,
+        "gold": "34",
+        "pred": "34",
+        "correct": true,
+        "tokens": 2208
+      },
+      {
+        "test_index": 587,
+        "gold": "30",
+        "pred": "30",
+        "correct": true,
+        "tokens": 2688
+      },
+      {
+        "test_index": 1091,
+        "gold": "1000",
+        "pred": "1000",
+        "correct": true,
+        "tokens": 1833
+      },
+      {
+        "test_index": 78,
+        "gold": "6",
+        "pred": "6",
+        "correct": true,
+        "tokens": 2974
+      },
+      {
+        "test_index": 427,
+        "gold": "150",
+        "pred": "150",
+        "correct": true,
+        "tokens": 34671
+      },
+      {
+        "test_index": 455,
+        "gold": "1920",
+        "pred": "1920",
+        "correct": true,
+        "tokens": 2564
+      },
+      {
+        "test_index": 367,
+        "gold": "19",
+        "pred": "19",
+        "correct": true,
+        "tokens": 3037
+      },
+      {
+        "test_index": 1179,
+        "gold": "50",
+        "pred": "50",
+        "correct": true,
+        "tokens": 2317
+      },
+      {
+        "test_index": 750,
+        "gold": "4000",
+        "pred": "4000",
+        "correct": true,
+        "tokens": 3093
+      },
+      {
+        "test_index": 974,
+        "gold": "5",
+        "pred": "5",
+        "correct": true,
+        "tokens": 1618
+      },
+      {
+        "test_index": 473,
+        "gold": "10",
+        "pred": "10",
+        "correct": true,
+        "tokens": 2487
+      },
+      {
+        "test_index": 981,
+        "gold": "7",
+        "pred": "7",
+        "correct": true,
+        "tokens": 2178
+      },
+      {
+        "test_index": 1049,
+        "gold": "20",
+        "pred": "20",
+        "correct": true,
+        "tokens": 1763
+      },
+      {
+        "test_index": 395,
+        "gold": "38",
+        "pred": "38",
+        "correct": true,
+        "tokens": 2890
+      },
+      {
+        "test_index": 1128,
+        "gold": "9",
+        "pred": "9",
+        "correct": true,
+        "tokens": 1915
+      },
+      {
+        "test_index": 62,
+        "gold": "25000",
+        "pred": "75000",
+        "correct": false,
+        "tokens": 3461
+      },
+      {
+        "test_index": 583,
+        "gold": "120",
+        "pred": "120",
+        "correct": true,
+        "tokens": 2717
+      },
+      {
+        "test_index": 576,
+        "gold": "11232",
+        "pred": "11232",
+        "correct": true,
+        "tokens": 3445
+      },
+      {
+        "test_index": 807,
+        "gold": "4",
+        "pred": "4",
+        "correct": true,
+        "tokens": 1911
+      },
+      {
+        "test_index": 67,
+        "gold": "595",
+        "pred": "595",
+        "correct": true,
+        "tokens": 2077
+      },
+      {
+        "test_index": 898,
+        "gold": "110",
+        "pred": "110",
+        "correct": true,
+        "tokens": 2406
+      },
+      {
+        "test_index": 631,
+        "gold": "4800",
+        "pred": "4800",
+        "correct": true,
+        "tokens": 2673
+      },
+      {
+        "test_index": 1198,
+        "gold": "140",
+        "pred": "140",
+        "correct": true,
+        "tokens": 3087
+      },
+      {
+        "test_index": 1007,
+        "gold": "34",
+        "pred": "34",
+        "correct": true,
+        "tokens": 2187
+      },
+      {
+        "test_index": 726,
+        "gold": "10",
+        "pred": "10",
+        "correct": true,
+        "tokens": 2566
+      },
+      {
+        "test_index": 721,
+        "gold": "2450",
+        "pred": "2450",
+        "correct": true,
+        "tokens": 3516
+      },
+      {
+        "test_index": 185,
+        "gold": "30",
+        "pred": "30",
+        "correct": true,
+        "tokens": 981
+      },
+      {
+        "test_index": 325,
+        "gold": "224000",
+        "pred": "224000",
+        "correct": true,
+        "tokens": 2609
+      },
+      {
+        "test_index": 1204,
+        "gold": "168",
+        "pred": "168",
+        "correct": true,
+        "tokens": 2822
+      },
+      {
+        "test_index": 512,
+        "gold": "120",
+        "pred": "120",
+        "correct": true,
+        "tokens": 1702
+      },
+      {
+        "test_index": 1240,
+        "gold": "2",
+        "pred": "2",
+        "correct": true,
+        "tokens": 3091
+      },
+      {
+        "test_index": 804,
+        "gold": "20",
+        "pred": "20",
+        "correct": true,
+        "tokens": 1818
+      },
+      {
+        "test_index": 277,
+        "gold": "4",
+        "pred": "4",
+        "correct": true,
+        "tokens": 1588
+      },
+      {
+        "test_index": 784,
+        "gold": "15",
+        "pred": "15",
+        "correct": true,
+        "tokens": 1958
+      },
+      {
+        "test_index": 263,
+        "gold": "8",
+        "pred": "8",
+        "correct": true,
+        "tokens": 2320
+      },
+      {
+        "test_index": 571,
+        "gold": "308",
+        "pred": "308",
+        "correct": true,
+        "tokens": 1915
+      },
+      {
+        "test_index": 59,
+        "gold": "187",
+        "pred": "187",
+        "correct": true,
+        "tokens": 1185
+      },
+      {
+        "test_index": 852,
+        "gold": "123",
+        "pred": "48",
+        "correct": false,
+        "tokens": 3735
+      }
+    ],
+    "rag": [
+      {
+        "test_index": 588,
+        "gold": "52",
+        "pred": "52",
+        "correct": true,
+        "tokens": 626
+      },
+      {
+        "test_index": 1214,
+        "gold": "5",
+        "pred": "5",
+        "correct": true,
+        "tokens": 703
+      },
+      {
+        "test_index": 57,
+        "gold": "83",
+        "pred": "83",
+        "correct": true,
+        "tokens": 1148
+      },
+      {
+        "test_index": 906,
+        "gold": "10",
+        "pred": "10",
+        "correct": true,
+        "tokens": 673
+      },
+      {
+        "test_index": 1252,
+        "gold": "70",
+        "pred": "70",
+        "correct": true,
+        "tokens": 922
+      },
+      {
+        "test_index": 618,
+        "gold": "36",
+        "pred": "36",
+        "correct": true,
+        "tokens": 797
+      },
+      {
+        "test_index": 599,
+        "gold": "48",
+        "pred": "48",
+        "correct": true,
+        "tokens": 785
+      },
+      {
+        "test_index": 289,
+        "gold": "16",
+        "pred": "16",
+        "correct": true,
+        "tokens": 701
+      },
+      {
+        "test_index": 608,
+        "gold": "8",
+        "pred": "8",
+        "correct": true,
+        "tokens": 969
+      },
+      {
+        "test_index": 400,
+        "gold": "48",
+        "pred": "48",
+        "correct": true,
+        "tokens": 697
+      },
+      {
+        "test_index": 237,
+        "gold": "90",
+        "pred": "90",
+        "correct": true,
+        "tokens": 686
+      },
+      {
+        "test_index": 616,
+        "gold": "10",
+        "pred": "10",
+        "correct": true,
+        "tokens": 662
+      },
+      {
+        "test_index": 672,
+        "gold": "2",
+        "pred": "2",
+        "correct": true,
+        "tokens": 1045
+      },
+      {
+        "test_index": 1132,
+        "gold": "45000",
+        "pred": "45000",
+        "correct": true,
+        "tokens": 787
+      },
+      {
+        "test_index": 463,
+        "gold": "18",
+        "pred": "18",
+        "correct": true,
+        "tokens": 592
+      },
+      {
+        "test_index": 222,
+        "gold": "140",
+        "pred": "140",
+        "correct": true,
+        "tokens": 644
+      },
+      {
+        "test_index": 945,
+        "gold": "17",
+        "pred": "17",
+        "correct": true,
+        "tokens": 899
+      },
+      {
+        "test_index": 238,
+        "gold": "68",
+        "pred": "68",
+        "correct": true,
+        "tokens": 738
+      },
+      {
+        "test_index": 730,
+        "gold": "8",
+        "pred": "8",
+        "correct": true,
+        "tokens": 600
+      },
+      {
+        "test_index": 55,
+        "gold": "14",
+        "pred": "14",
+        "correct": true,
+        "tokens": 678
+      },
+      {
+        "test_index": 772,
+        "gold": "50",
+        "pred": "50",
+        "correct": true,
+        "tokens": 843
+      },
+      {
+        "test_index": 176,
+        "gold": "100",
+        "pred": "100",
+        "correct": true,
+        "tokens": 607
+      },
+      {
+        "test_index": 15,
+        "gold": "125",
+        "pred": "125",
+        "correct": true,
+        "tokens": 824
+      },
+      {
+        "test_index": 66,
+        "gold": "48",
+        "pred": "48",
+        "correct": true,
+        "tokens": 714
+      },
+      {
+        "test_index": 479,
+        "gold": "15400",
+        "pred": "15400",
+        "correct": true,
+        "tokens": 794
+      },
+      {
+        "test_index": 896,
+        "gold": "250",
+        "pred": "250",
+        "correct": true,
+        "tokens": 628
+      },
+      {
+        "test_index": 1122,
+        "gold": "18",
+        "pred": "18",
+        "correct": true,
+        "tokens": 885
+      },
+      {
+        "test_index": 1005,
+        "gold": "1490",
+        "pred": "1490",
+        "correct": true,
+        "tokens": 933
+      },
+      {
+        "test_index": 480,
+        "gold": "11",
+        "pred": "11",
+        "correct": true,
+        "tokens": 587
+      },
+      {
+        "test_index": 187,
+        "gold": "106",
+        "pred": "106.12",
+        "correct": false,
+        "tokens": 818
+      },
+      {
+        "test_index": 275,
+        "gold": "138",
+        "pred": "138",
+        "correct": true,
+        "tokens": 891
+      },
+      {
+        "test_index": 868,
+        "gold": "15",
+        "pred": "15",
+        "correct": true,
+        "tokens": 789
+      },
+      {
+        "test_index": 921,
+        "gold": "4",
+        "pred": "4",
+        "correct": true,
+        "tokens": 722
+      },
+      {
+        "test_index": 562,
+        "gold": "82",
+        "pred": "82",
+        "correct": true,
+        "tokens": 577
+      },
+      {
+        "test_index": 1082,
+        "gold": "2",
+        "pred": "2",
+        "correct": true,
+        "tokens": 935
+      },
+      {
+        "test_index": 172,
+        "gold": "51",
+        "pred": "51",
+        "correct": true,
+        "tokens": 790
+      },
+      {
+        "test_index": 770,
+        "gold": "4",
+        "pred": "4",
+        "correct": true,
+        "tokens": 900
+      },
+      {
+        "test_index": 1191,
+        "gold": "100",
+        "pred": "100",
+        "correct": true,
+        "tokens": 744
+      },
+      {
+        "test_index": 413,
+        "gold": "25",
+        "pred": "25",
+        "correct": true,
+        "tokens": 964
+      },
+      {
+        "test_index": 537,
+        "gold": "188",
+        "pred": "188",
+        "correct": true,
+        "tokens": 789
+      },
+      {
+        "test_index": 1154,
+        "gold": "30",
+        "pred": "30",
+        "correct": true,
+        "tokens": 581
+      },
+      {
+        "test_index": 1308,
+        "gold": "30",
+        "pred": "30",
+        "correct": true,
+        "tokens": 608
+      },
+      {
+        "test_index": 454,
+        "gold": "150",
+        "pred": "240",
+        "correct": false,
+        "tokens": 507
+      },
+      {
+        "test_index": 280,
+        "gold": "7",
+        "pred": "7",
+        "correct": true,
+        "tokens": 523
+      },
+      {
+        "test_index": 177,
+        "gold": "350",
+        "pred": "350",
+        "correct": true,
+        "tokens": 1223
+      },
+      {
+        "test_index": 923,
+        "gold": "2",
+        "pred": "2",
+        "correct": true,
+        "tokens": 1090
+      },
+      {
+        "test_index": 677,
+        "gold": "36",
+        "pred": "36",
+        "correct": true,
+        "tokens": 899
+      },
+      {
+        "test_index": 1176,
+        "gold": "2",
+        "pred": "2",
+        "correct": true,
+        "tokens": 1167
+      },
+      {
+        "test_index": 21,
+        "gold": "14",
+        "pred": "14",
+        "correct": true,
+        "tokens": 719
+      },
+      {
+        "test_index": 970,
+        "gold": "33",
+        "pred": "33",
+        "correct": true,
+        "tokens": 556
+      },
+      {
+        "test_index": 356,
+        "gold": "21",
+        "pred": "21",
+        "correct": true,
+        "tokens": 824
+      },
+      {
+        "test_index": 100,
+        "gold": "175",
+        "pred": "175",
+        "correct": true,
+        "tokens": 1139
+      },
+      {
+        "test_index": 132,
+        "gold": "60",
+        "pred": "60",
+        "correct": true,
+        "tokens": 833
+      },
+      {
+        "test_index": 364,
+        "gold": "49",
+        "pred": "49",
+        "correct": true,
+        "tokens": 804
+      },
+      {
+        "test_index": 969,
+        "gold": "1800",
+        "pred": "2100",
+        "correct": false,
+        "tokens": 703
+      },
+      {
+        "test_index": 1273,
+        "gold": "27",
+        "pred": "27",
+        "correct": true,
+        "tokens": 785
+      },
+      {
+        "test_index": 143,
+        "gold": "16",
+        "pred": "16",
+        "correct": true,
+        "tokens": 766
+      },
+      {
+        "test_index": 442,
+        "gold": "49",
+        "pred": "49",
+        "correct": true,
+        "tokens": 897
+      },
+      {
+        "test_index": 464,
+        "gold": "6",
+        "pred": "6",
+        "correct": true,
+        "tokens": 767
+      },
+      {
+        "test_index": 1089,
+        "gold": "32",
+        "pred": "32",
+        "correct": true,
+        "tokens": 870
+      },
+      {
+        "test_index": 259,
+        "gold": "168",
+        "pred": "168",
+        "correct": true,
+        "tokens": 682
+      },
+      {
+        "test_index": 90,
+        "gold": "225",
+        "pred": "225",
+        "correct": true,
+        "tokens": 808
+      },
+      {
+        "test_index": 998,
+        "gold": "50",
+        "pred": "50",
+        "correct": true,
+        "tokens": 808
+      },
+      {
+        "test_index": 989,
+        "gold": "45",
+        "pred": "45",
+        "correct": true,
+        "tokens": 598
+      },
+      {
+        "test_index": 22,
+        "gold": "7",
+        "pred": "7",
+        "correct": true,
+        "tokens": 660
+      },
+      {
+        "test_index": 586,
+        "gold": "800",
+        "pred": "800",
+        "correct": true,
+        "tokens": 783
+      },
+      {
+        "test_index": 756,
+        "gold": "22",
+        "pred": "22",
+        "correct": true,
+        "tokens": 770
+      },
+      {
+        "test_index": 1261,
+        "gold": "235",
+        "pred": "235",
+        "correct": true,
+        "tokens": 1045
+      },
+      {
+        "test_index": 296,
+        "gold": "3",
+        "pred": "3",
+        "correct": true,
+        "tokens": 759
+      },
+      {
+        "test_index": 383,
+        "gold": "2",
+        "pred": "2",
+        "correct": true,
+        "tokens": 937
+      },
+      {
+        "test_index": 709,
+        "gold": "3000",
+        "pred": "3000",
+        "correct": true,
+        "tokens": 1099
+      },
+      {
+        "test_index": 1069,
+        "gold": "300",
+        "pred": "300",
+        "correct": true,
+        "tokens": 798
+      },
+      {
+        "test_index": 1141,
+        "gold": "20",
+        "pred": "20",
+        "correct": true,
+        "tokens": 678
+      },
+      {
+        "test_index": 179,
+        "gold": "130",
+        "pred": "130",
+        "correct": true,
+        "tokens": 682
+      },
+      {
+        "test_index": 731,
+        "gold": "1",
+        "pred": "1",
+        "correct": true,
+        "tokens": 955
+      },
+      {
+        "test_index": 1241,
+        "gold": "8",
+        "pred": "8",
+        "correct": true,
+        "tokens": 877
+      },
+      {
+        "test_index": 371,
+        "gold": "50",
+        "pred": "50",
+        "correct": true,
+        "tokens": 826
+      },
+      {
+        "test_index": 107,
+        "gold": "3",
+        "pred": "3",
+        "correct": true,
+        "tokens": 1063
+      },
+      {
+        "test_index": 1115,
+        "gold": "5",
+        "pred": "5",
+        "correct": true,
+        "tokens": 975
+      },
+      {
+        "test_index": 851,
+        "gold": "110",
+        "pred": "110",
+        "correct": true,
+        "tokens": 783
+      },
+      {
+        "test_index": 303,
+        "gold": "1300",
+        "pred": "1300",
+        "correct": true,
+        "tokens": 1204
+      },
+      {
+        "test_index": 535,
+        "gold": "16",
+        "pred": "16",
+        "correct": true,
+        "tokens": 559
+      },
+      {
+        "test_index": 544,
+        "gold": "80",
+        "pred": "80",
+        "correct": true,
+        "tokens": 536
+      },
+      {
+        "test_index": 374,
+        "gold": "45",
+        "pred": "45",
+        "correct": true,
+        "tokens": 861
+      },
+      {
+        "test_index": 387,
+        "gold": "36",
+        "pred": "36",
+        "correct": true,
+        "tokens": 574
+      },
+      {
+        "test_index": 434,
+        "gold": "5",
+        "pred": "5",
+        "correct": true,
+        "tokens": 892
+      },
+      {
+        "test_index": 706,
+        "gold": "9",
+        "pred": "9",
+        "correct": true,
+        "tokens": 1135
+      },
+      {
+        "test_index": 347,
+        "gold": "36",
+        "pred": "36",
+        "correct": true,
+        "tokens": 540
+      },
+      {
+        "test_index": 811,
+        "gold": "60",
+        "pred": "60",
+        "correct": true,
+        "tokens": 701
+      },
+      {
+        "test_index": 35,
+        "gold": "9",
+        "pred": "9",
+        "correct": true,
+        "tokens": 574
+      },
+      {
+        "test_index": 892,
+        "gold": "1",
+        "pred": "1",
+        "correct": true,
+        "tokens": 786
+      },
+      {
+        "test_index": 314,
+        "gold": "30",
+        "pred": "30",
+        "correct": true,
+        "tokens": 922
+      },
+      {
+        "test_index": 2,
+        "gold": "70000",
+        "pred": "70000",
+        "correct": true,
+        "tokens": 774
+      },
+      {
+        "test_index": 944,
+        "gold": "34",
+        "pred": "34",
+        "correct": true,
+        "tokens": 787
+      },
+      {
+        "test_index": 687,
+        "gold": "13",
+        "pred": "13",
+        "correct": true,
+        "tokens": 717
+      },
+      {
+        "test_index": 1184,
+        "gold": "306",
+        "pred": "306",
+        "correct": true,
+        "tokens": 706
+      },
+      {
+        "test_index": 297,
+        "gold": "55",
+        "pred": "55",
+        "correct": true,
+        "tokens": 736
+      },
+      {
+        "test_index": 1068,
+        "gold": "24",
+        "pred": "12",
+        "correct": false,
+        "tokens": 817
+      },
+      {
+        "test_index": 792,
+        "gold": "75",
+        "pred": "75",
+        "correct": true,
+        "tokens": 686
+      },
+      {
+        "test_index": 932,
+        "gold": "24",
+        "pred": "24",
+        "correct": true,
+        "tokens": 888
+      },
+      {
+        "test_index": 405,
+        "gold": "50",
+        "pred": "50",
+        "correct": true,
+        "tokens": 1033
+      },
+      {
+        "test_index": 863,
+        "gold": "110",
+        "pred": "110",
+        "correct": true,
+        "tokens": 679
+      },
+      {
+        "test_index": 953,
+        "gold": "452",
+        "pred": "452",
+        "correct": true,
+        "tokens": 943
+      },
+      {
+        "test_index": 49,
+        "gold": "30",
+        "pred": "30",
+        "correct": true,
+        "tokens": 904
+      },
+      {
+        "test_index": 474,
+        "gold": "80",
+        "pred": "80",
+        "correct": true,
+        "tokens": 701
+      },
+      {
+        "test_index": 410,
+        "gold": "3",
+        "pred": "3",
+        "correct": true,
+        "tokens": 1111
+      },
+      {
+        "test_index": 705,
+        "gold": "120",
+        "pred": "120",
+        "correct": true,
+        "tokens": 668
+      },
+      {
+        "test_index": 528,
+        "gold": "172",
+        "pred": "172",
+        "correct": true,
+        "tokens": 979
+      },
+      {
+        "test_index": 220,
+        "gold": "70",
+        "pred": "70",
+        "correct": true,
+        "tokens": 586
+      },
+      {
+        "test_index": 1299,
+        "gold": "13",
+        "pred": "13",
+        "correct": true,
+        "tokens": 898
+      },
+      {
+        "test_index": 1212,
+        "gold": "150",
+        "pred": "150",
+        "correct": true,
+        "tokens": 756
+      },
+      {
+        "test_index": 368,
+        "gold": "18",
+        "pred": "10",
+        "correct": false,
+        "tokens": 700
+      },
+      {
+        "test_index": 926,
+        "gold": "1",
+        "pred": "1",
+        "correct": true,
+        "tokens": 1426
+      },
+      {
+        "test_index": 243,
+        "gold": "250",
+        "pred": "250",
+        "correct": true,
+        "tokens": 862
+      },
+      {
+        "test_index": 56,
+        "gold": "3",
+        "pred": "3",
+        "correct": true,
+        "tokens": 858
+      },
+      {
+        "test_index": 889,
+        "gold": "15",
+        "pred": "15",
+        "correct": true,
+        "tokens": 676
+      },
+      {
+        "test_index": 1234,
+        "gold": "12",
+        "pred": "12",
+        "correct": true,
+        "tokens": 612
+      },
+      {
+        "test_index": 69,
+        "gold": "60",
+        "pred": "60",
+        "correct": true,
+        "tokens": 716
+      },
+      {
+        "test_index": 1157,
+        "gold": "3",
+        "pred": "3",
+        "correct": true,
+        "tokens": 597
+      },
+      {
+        "test_index": 1193,
+        "gold": "9",
+        "pred": "9",
+        "correct": true,
+        "tokens": 1123
+      },
+      {
+        "test_index": 1293,
+        "gold": "140000",
+        "pred": "140000",
+        "correct": true,
+        "tokens": 658
+      },
+      {
+        "test_index": 749,
+        "gold": "3",
+        "pred": "6",
+        "correct": false,
+        "tokens": 705
+      },
+      {
+        "test_index": 1054,
+        "gold": "2400",
+        "pred": "2400",
+        "correct": true,
+        "tokens": 1002
+      },
+      {
+        "test_index": 269,
+        "gold": "4",
+        "pred": "4",
+        "correct": true,
+        "tokens": 702
+      },
+      {
+        "test_index": 812,
+        "gold": "79",
+        "pred": "79",
+        "correct": true,
+        "tokens": 1082
+      },
+      {
+        "test_index": 1143,
+        "gold": "300",
+        "pred": "300",
+        "correct": true,
+        "tokens": 639
+      },
+      {
+        "test_index": 192,
+        "gold": "91",
+        "pred": "91",
+        "correct": true,
+        "tokens": 895
+      },
+      {
+        "test_index": 623,
+        "gold": "8",
+        "pred": "8",
+        "correct": true,
+        "tokens": 564
+      },
+      {
+        "test_index": 678,
+        "gold": "120",
+        "pred": "120",
+        "correct": true,
+        "tokens": 658
+      },
+      {
+        "test_index": 382,
+        "gold": "350",
+        "pred": "350",
+        "correct": true,
+        "tokens": 747
+      },
+      {
+        "test_index": 207,
+        "gold": "2600",
+        "pred": "2600",
+        "correct": true,
+        "tokens": 712
+      },
+      {
+        "test_index": 848,
+        "gold": "10",
+        "pred": "10",
+        "correct": true,
+        "tokens": 688
+      },
+      {
+        "test_index": 428,
+        "gold": "26",
+        "pred": "44",
+        "correct": false,
+        "tokens": 857
+      },
+      {
+        "test_index": 622,
+        "gold": "7",
+        "pred": "7",
+        "correct": true,
+        "tokens": 799
+      },
+      {
+        "test_index": 1213,
+        "gold": "31",
+        "pred": "31",
+        "correct": true,
+        "tokens": 805
+      },
+      {
+        "test_index": 847,
+        "gold": "975",
+        "pred": "975",
+        "correct": true,
+        "tokens": 746
+      },
+      {
+        "test_index": 44,
+        "gold": "20",
+        "pred": "20",
+        "correct": true,
+        "tokens": 805
+      },
+      {
+        "test_index": 658,
+        "gold": "120",
+        "pred": "120",
+        "correct": true,
+        "tokens": 1022
+      },
+      {
+        "test_index": 591,
+        "gold": "220",
+        "pred": "220",
+        "correct": true,
+        "tokens": 608
+      },
+      {
+        "test_index": 342,
+        "gold": "87",
+        "pred": "87",
+        "correct": true,
+        "tokens": 633
+      },
+      {
+        "test_index": 1024,
+        "gold": "300",
+        "pred": "300",
+        "correct": true,
+        "tokens": 929
+      },
+      {
+        "test_index": 1251,
+        "gold": "30",
+        "pred": "30",
+        "correct": true,
+        "tokens": 1062
+      },
+      {
+        "test_index": 439,
+        "gold": "17",
+        "pred": "17",
+        "correct": true,
+        "tokens": 1150
+      },
+      {
+        "test_index": 491,
+        "gold": "16",
+        "pred": "16",
+        "correct": true,
+        "tokens": 735
+      },
+      {
+        "test_index": 856,
+        "gold": "7",
+        "pred": "7",
+        "correct": true,
+        "tokens": 757
+      },
+      {
+        "test_index": 547,
+        "gold": "81",
+        "pred": "81",
+        "correct": true,
+        "tokens": 608
+      },
+      {
+        "test_index": 1224,
+        "gold": "5",
+        "pred": "5",
+        "correct": true,
+        "tokens": 706
+      },
+      {
+        "test_index": 346,
+        "gold": "9",
+        "pred": "9",
+        "correct": true,
+        "tokens": 839
+      },
+      {
+        "test_index": 655,
+        "gold": "10",
+        "pred": "10",
+        "correct": true,
+        "tokens": 927
+      },
+      {
+        "test_index": 1188,
+        "gold": "24",
+        "pred": "24",
+        "correct": true,
+        "tokens": 649
+      },
+      {
+        "test_index": 272,
+        "gold": "5",
+        "pred": "5",
+        "correct": true,
+        "tokens": 722
+      },
+      {
+        "test_index": 231,
+        "gold": "50",
+        "pred": "50",
+        "correct": true,
+        "tokens": 617
+      },
+      {
+        "test_index": 578,
+        "gold": "48",
+        "pred": "48",
+        "correct": true,
+        "tokens": 1006
+      },
+      {
+        "test_index": 113,
+        "gold": "25",
+        "pred": "25",
+        "correct": true,
+        "tokens": 567
+      },
+      {
+        "test_index": 1245,
+        "gold": "96",
+        "pred": "96",
+        "correct": true,
+        "tokens": 728
+      },
+      {
+        "test_index": 999,
+        "gold": "25",
+        "pred": "25",
+        "correct": true,
+        "tokens": 928
+      },
+      {
+        "test_index": 844,
+        "gold": "180",
+        "pred": "180",
+        "correct": true,
+        "tokens": 899
+      },
+      {
+        "test_index": 1150,
+        "gold": "21",
+        "pred": "21",
+        "correct": true,
+        "tokens": 440
+      },
+      {
+        "test_index": 1194,
+        "gold": "1200",
+        "pred": "1200",
+        "correct": true,
+        "tokens": 625
+      },
+      {
+        "test_index": 73,
+        "gold": "255",
+        "pred": "255",
+        "correct": true,
+        "tokens": 705
+      },
+      {
+        "test_index": 628,
+        "gold": "4",
+        "pred": "4",
+        "correct": true,
+        "tokens": 765
+      },
+      {
+        "test_index": 773,
+        "gold": "10",
+        "pred": "10",
+        "correct": true,
+        "tokens": 656
+      },
+      {
+        "test_index": 910,
+        "gold": "700",
+        "pred": "700",
+        "correct": true,
+        "tokens": 873
+      },
+      {
+        "test_index": 1108,
+        "gold": "38",
+        "pred": "38",
+        "correct": true,
+        "tokens": 792
+      },
+      {
+        "test_index": 1135,
+        "gold": "32",
+        "pred": "32",
+        "correct": true,
+        "tokens": 651
+      },
+      {
+        "test_index": 967,
+        "gold": "30",
+        "pred": "30",
+        "correct": true,
+        "tokens": 771
+      },
+      {
+        "test_index": 160,
+        "gold": "16",
+        "pred": "16",
+        "correct": true,
+        "tokens": 778
+      },
+      {
+        "test_index": 585,
+        "gold": "40",
+        "pred": "40",
+        "correct": true,
+        "tokens": 752
+      },
+      {
+        "test_index": 1210,
+        "gold": "288",
+        "pred": "288",
+        "correct": true,
+        "tokens": 823
+      },
+      {
+        "test_index": 745,
+        "gold": "1100",
+        "pred": "1100",
+        "correct": true,
+        "tokens": 708
+      },
+      {
+        "test_index": 1281,
+        "gold": "20",
+        "pred": "20",
+        "correct": true,
+        "tokens": 722
+      },
+      {
+        "test_index": 328,
+        "gold": "2",
+        "pred": "2",
+        "correct": true,
+        "tokens": 729
+      },
+      {
+        "test_index": 796,
+        "gold": "2880000",
+        "pred": "1040000",
+        "correct": false,
+        "tokens": 727
+      },
+      {
+        "test_index": 524,
+        "gold": "9",
+        "pred": "9",
+        "correct": true,
+        "tokens": 714
+      },
+      {
+        "test_index": 874,
+        "gold": "132",
+        "pred": "132",
+        "correct": true,
+        "tokens": 622
+      },
+      {
+        "test_index": 1172,
+        "gold": "93",
+        "pred": "93",
+        "correct": true,
+        "tokens": 756
+      },
+      {
+        "test_index": 738,
+        "gold": "4",
+        "pred": "4",
+        "correct": true,
+        "tokens": 661
+      },
+      {
+        "test_index": 1072,
+        "gold": "85",
+        "pred": "85",
+        "correct": true,
+        "tokens": 687
+      },
+      {
+        "test_index": 615,
+        "gold": "33",
+        "pred": "33",
+        "correct": true,
+        "tokens": 882
+      },
+      {
+        "test_index": 845,
+        "gold": "12",
+        "pred": "12",
+        "correct": true,
+        "tokens": 989
+      },
+      {
+        "test_index": 1259,
+        "gold": "7200",
+        "pred": "7200",
+        "correct": true,
+        "tokens": 721
+      },
+      {
+        "test_index": 875,
+        "gold": "60",
+        "pred": "60",
+        "correct": true,
+        "tokens": 621
+      },
+      {
+        "test_index": 661,
+        "gold": "44",
+        "pred": "44",
+        "correct": true,
+        "tokens": 850
+      },
+      {
+        "test_index": 1102,
+        "gold": "113",
+        "pred": "113",
+        "correct": true,
+        "tokens": 993
+      },
+      {
+        "test_index": 640,
+        "gold": "43500",
+        "pred": "43500",
+        "correct": true,
+        "tokens": 1178
+      },
+      {
+        "test_index": 134,
+        "gold": "720",
+        "pred": "720",
+        "correct": true,
+        "tokens": 459
+      },
+      {
+        "test_index": 188,
+        "gold": "50",
+        "pred": "50",
+        "correct": true,
+        "tokens": 721
+      },
+      {
+        "test_index": 112,
+        "gold": "24",
+        "pred": "24",
+        "correct": true,
+        "tokens": 540
+      },
+      {
+        "test_index": 751,
+        "gold": "43",
+        "pred": "43",
+        "correct": true,
+        "tokens": 807
+      },
+      {
+        "test_index": 612,
+        "gold": "30",
+        "pred": "30",
+        "correct": true,
+        "tokens": 928
+      },
+      {
+        "test_index": 1301,
+        "gold": "23",
+        "pred": "23",
+        "correct": true,
+        "tokens": 1073
+      },
+      {
+        "test_index": 1071,
+        "gold": "251",
+        "pred": "251",
+        "correct": true,
+        "tokens": 1027
+      },
+      {
+        "test_index": 32,
+        "gold": "35",
+        "pred": "35",
+        "correct": true,
+        "tokens": 754
+      },
+      {
+        "test_index": 943,
+        "gold": "50",
+        "pred": "50",
+        "correct": true,
+        "tokens": 925
+      },
+      {
+        "test_index": 126,
+        "gold": "82",
+        "pred": "82",
+        "correct": true,
+        "tokens": 782
+      },
+      {
+        "test_index": 651,
+        "gold": "2100",
+        "pred": "2100",
+        "correct": true,
+        "tokens": 1066
+      },
+      {
+        "test_index": 1014,
+        "gold": "3",
+        "pred": "3",
+        "correct": true,
+        "tokens": 1025
+      },
+      {
+        "test_index": 1163,
+        "gold": "12",
+        "pred": "12",
+        "correct": true,
+        "tokens": 537
+      },
+      {
+        "test_index": 846,
+        "gold": "11",
+        "pred": "11",
+        "correct": true,
+        "tokens": 818
+      },
+      {
+        "test_index": 97,
+        "gold": "12",
+        "pred": "12",
+        "correct": true,
+        "tokens": 766
+      },
+      {
+        "test_index": 510,
+        "gold": "525",
+        "pred": "617.65",
+        "correct": false,
+        "tokens": 1025
+      },
+      {
+        "test_index": 121,
+        "gold": "27",
+        "pred": "27",
+        "correct": true,
+        "tokens": 912
+      },
+      {
+        "test_index": 190,
+        "gold": "360",
+        "pred": "360",
+        "correct": true,
+        "tokens": 585
+      },
+      {
+        "test_index": 990,
+        "gold": "14",
+        "pred": "14",
+        "correct": true,
+        "tokens": 984
+      },
+      {
+        "test_index": 11,
+        "gold": "694",
+        "pred": "694",
+        "correct": true,
+        "tokens": 893
+      },
+      {
+        "test_index": 914,
+        "gold": "3",
+        "pred": "3",
+        "correct": true,
+        "tokens": 567
+      },
+      {
+        "test_index": 1107,
+        "gold": "360",
+        "pred": "360",
+        "correct": true,
+        "tokens": 696
+      },
+      {
+        "test_index": 298,
+        "gold": "500",
+        "pred": "500",
+        "correct": true,
+        "tokens": 719
+      },
+      {
+        "test_index": 886,
+        "gold": "20",
+        "pred": "20",
+        "correct": true,
+        "tokens": 759
+      },
+      {
+        "test_index": 1246,
+        "gold": "3360",
+        "pred": "3360",
+        "correct": true,
+        "tokens": 841
+      },
+      {
+        "test_index": 540,
+        "gold": "39",
+        "pred": "39",
+        "correct": true,
+        "tokens": 860
+      },
+      {
+        "test_index": 982,
+        "gold": "12",
+        "pred": "12",
+        "correct": true,
+        "tokens": 889
+      },
+      {
+        "test_index": 581,
+        "gold": "215",
+        "pred": "215",
+        "correct": true,
+        "tokens": 928
+      },
+      {
+        "test_index": 783,
+        "gold": "4",
+        "pred": "4",
+        "correct": true,
+        "tokens": 1171
+      },
+      {
+        "test_index": 673,
+        "gold": "9",
+        "pred": "9",
+        "correct": true,
+        "tokens": 672
+      },
+      {
+        "test_index": 1238,
+        "gold": "520",
+        "pred": "520",
+        "correct": true,
+        "tokens": 843
+      },
+      {
+        "test_index": 261,
+        "gold": "62",
+        "pred": "62",
+        "correct": true,
+        "tokens": 871
+      },
+      {
+        "test_index": 531,
+        "gold": "66",
+        "pred": "66",
+        "correct": true,
+        "tokens": 820
+      },
+      {
+        "test_index": 1167,
+        "gold": "120",
+        "pred": "120",
+        "correct": true,
+        "tokens": 506
+      },
+      {
+        "test_index": 983,
+        "gold": "15",
+        "pred": "15",
+        "correct": true,
+        "tokens": 659
+      },
+      {
+        "test_index": 1110,
+        "gold": "60",
+        "pred": "60",
+        "correct": true,
+        "tokens": 1023
+      },
+      {
+        "test_index": 580,
+        "gold": "500",
+        "pred": "499.2",
+        "correct": false,
+        "tokens": 916
+      },
+      {
+        "test_index": 901,
+        "gold": "1",
+        "pred": "0",
+        "correct": false,
+        "tokens": 877
+      },
+      {
+        "test_index": 942,
+        "gold": "205",
+        "pred": "178.75",
+        "correct": false,
+        "tokens": 700
+      },
+      {
+        "test_index": 681,
+        "gold": "298",
+        "pred": "298",
+        "correct": true,
+        "tokens": 1016
+      },
+      {
+        "test_index": 526,
+        "gold": "21",
+        "pred": "504",
+        "correct": false,
+        "tokens": 1118
+      },
+      {
+        "test_index": 125,
+        "gold": "10",
+        "pred": "10",
+        "correct": true,
+        "tokens": 968
+      },
+      {
+        "test_index": 423,
+        "gold": "8",
+        "pred": "0",
+        "correct": false,
+        "tokens": 875
+      },
+      {
+        "test_index": 1026,
+        "gold": "43200",
+        "pred": "43200",
+        "correct": true,
+        "tokens": 1007
+      },
+      {
+        "test_index": 888,
+        "gold": "10",
+        "pred": "10",
+        "correct": true,
+        "tokens": 484
+      },
+      {
+        "test_index": 214,
+        "gold": "8",
+        "pred": "8",
+        "correct": true,
+        "tokens": 1193
+      },
+      {
+        "test_index": 1215,
+        "gold": "36",
+        "pred": "36",
+        "correct": true,
+        "tokens": 1120
+      },
+      {
+        "test_index": 978,
+        "gold": "160",
+        "pred": "160",
+        "correct": true,
+        "tokens": 730
+      },
+      {
+        "test_index": 498,
+        "gold": "40",
+        "pred": "40",
+        "correct": true,
+        "tokens": 630
+      },
+      {
+        "test_index": 1070,
+        "gold": "18",
+        "pred": "18",
+        "correct": true,
+        "tokens": 698
+      },
+      {
+        "test_index": 525,
+        "gold": "12",
+        "pred": "12",
+        "correct": true,
+        "tokens": 1010
+      },
+      {
+        "test_index": 68,
+        "gold": "36",
+        "pred": "36",
+        "correct": true,
+        "tokens": 632
+      },
+      {
+        "test_index": 1148,
+        "gold": "9",
+        "pred": "9",
+        "correct": true,
+        "tokens": 869
+      },
+      {
+        "test_index": 818,
+        "gold": "16",
+        "pred": "16",
+        "correct": true,
+        "tokens": 744
+      },
+      {
+        "test_index": 828,
+        "gold": "60",
+        "pred": "60",
+        "correct": true,
+        "tokens": 745
+      },
+      {
+        "test_index": 402,
+        "gold": "4",
+        "pred": "4",
+        "correct": true,
+        "tokens": 1036
+      },
+      {
+        "test_index": 771,
+        "gold": "3",
+        "pred": "3",
+        "correct": true,
+        "tokens": 916
+      },
+      {
+        "test_index": 202,
+        "gold": "100",
+        "pred": "100",
+        "correct": true,
+        "tokens": 660
+      },
+      {
+        "test_index": 1288,
+        "gold": "34",
+        "pred": "34",
+        "correct": true,
+        "tokens": 822
+      },
+      {
+        "test_index": 1075,
+        "gold": "16",
+        "pred": "16",
+        "correct": true,
+        "tokens": 861
+      },
+      {
+        "test_index": 522,
+        "gold": "29",
+        "pred": "29",
+        "correct": true,
+        "tokens": 916
+      },
+      {
+        "test_index": 894,
+        "gold": "26",
+        "pred": "26",
+        "correct": true,
+        "tokens": 1203
+      },
+      {
+        "test_index": 34,
+        "gold": "23",
+        "pred": "23",
+        "correct": true,
+        "tokens": 541
+      },
+      {
+        "test_index": 1129,
+        "gold": "8",
+        "pred": "8",
+        "correct": true,
+        "tokens": 855
+      },
+      {
+        "test_index": 1147,
+        "gold": "22",
+        "pred": "22",
+        "correct": true,
+        "tokens": 1041
+      },
+      {
+        "test_index": 1056,
+        "gold": "156",
+        "pred": "156",
+        "correct": true,
+        "tokens": 894
+      },
+      {
+        "test_index": 153,
+        "gold": "48",
+        "pred": "48",
+        "correct": true,
+        "tokens": 1024
+      },
+      {
+        "test_index": 235,
+        "gold": "10",
+        "pred": "11",
+        "correct": false,
+        "tokens": 809
+      },
+      {
+        "test_index": 48,
+        "gold": "8",
+        "pred": "8",
+        "correct": true,
+        "tokens": 566
+      },
+      {
+        "test_index": 492,
+        "gold": "32",
+        "pred": "32",
+        "correct": true,
+        "tokens": 533
+      },
+      {
+        "test_index": 871,
+        "gold": "48",
+        "pred": "48",
+        "correct": true,
+        "tokens": 760
+      },
+      {
+        "test_index": 869,
+        "gold": "500",
+        "pred": "500",
+        "correct": true,
+        "tokens": 644
+      },
+      {
+        "test_index": 1004,
+        "gold": "8",
+        "pred": "8",
+        "correct": true,
+        "tokens": 899
+      },
+      {
+        "test_index": 241,
+        "gold": "6",
+        "pred": "6",
+        "correct": true,
+        "tokens": 719
+      },
+      {
+        "test_index": 489,
+        "gold": "-10",
+        "pred": "-10",
+        "correct": true,
+        "tokens": 793
+      },
+      {
+        "test_index": 212,
+        "gold": "5",
+        "pred": "5",
+        "correct": true,
+        "tokens": 943
+      },
+      {
+        "test_index": 536,
+        "gold": "8",
+        "pred": "8",
+        "correct": true,
+        "tokens": 533
+      },
+      {
+        "test_index": 887,
+        "gold": "34",
+        "pred": "34",
+        "correct": true,
+        "tokens": 718
+      },
+      {
+        "test_index": 587,
+        "gold": "30",
+        "pred": "32",
+        "correct": false,
+        "tokens": 904
+      },
+      {
+        "test_index": 1091,
+        "gold": "1000",
+        "pred": "1000",
+        "correct": true,
+        "tokens": 947
+      },
+      {
+        "test_index": 78,
+        "gold": "6",
+        "pred": "6",
+        "correct": true,
+        "tokens": 808
+      },
+      {
+        "test_index": 427,
+        "gold": "150",
+        "pred": "50",
+        "correct": false,
+        "tokens": 755
+      },
+      {
+        "test_index": 455,
+        "gold": "1920",
+        "pred": "1920",
+        "correct": true,
+        "tokens": 872
+      },
+      {
+        "test_index": 367,
+        "gold": "19",
+        "pred": "19",
+        "correct": true,
+        "tokens": 891
+      },
+      {
+        "test_index": 1179,
+        "gold": "50",
+        "pred": "50",
+        "correct": true,
+        "tokens": 1067
+      },
+      {
+        "test_index": 750,
+        "gold": "4000",
+        "pred": "4000",
+        "correct": true,
+        "tokens": 858
+      },
+      {
+        "test_index": 974,
+        "gold": "5",
+        "pred": "5",
+        "correct": true,
+        "tokens": 674
+      },
+      {
+        "test_index": 473,
+        "gold": "10",
+        "pred": "10",
+        "correct": true,
+        "tokens": 975
+      },
+      {
+        "test_index": 981,
+        "gold": "7",
+        "pred": "7",
+        "correct": true,
+        "tokens": 759
+      },
+      {
+        "test_index": 1049,
+        "gold": "20",
+        "pred": "20",
+        "correct": true,
+        "tokens": 655
+      },
+      {
+        "test_index": 395,
+        "gold": "38",
+        "pred": "38",
+        "correct": true,
+        "tokens": 821
+      },
+      {
+        "test_index": 1128,
+        "gold": "9",
+        "pred": "9",
+        "correct": true,
+        "tokens": 583
+      },
+      {
+        "test_index": 62,
+        "gold": "25000",
+        "pred": "75000",
+        "correct": false,
+        "tokens": 950
+      },
+      {
+        "test_index": 583,
+        "gold": "120",
+        "pred": "120",
+        "correct": true,
+        "tokens": 1021
+      },
+      {
+        "test_index": 576,
+        "gold": "11232",
+        "pred": "11232",
+        "correct": true,
+        "tokens": 785
+      },
+      {
+        "test_index": 807,
+        "gold": "4",
+        "pred": "4",
+        "correct": true,
+        "tokens": 778
+      },
+      {
+        "test_index": 67,
+        "gold": "595",
+        "pred": "595",
+        "correct": true,
+        "tokens": 640
+      },
+      {
+        "test_index": 898,
+        "gold": "110",
+        "pred": "110",
+        "correct": true,
+        "tokens": 878
+      },
+      {
+        "test_index": 631,
+        "gold": "4800",
+        "pred": "4800",
+        "correct": true,
+        "tokens": 872
+      },
+      {
+        "test_index": 1198,
+        "gold": "140",
+        "pred": "140",
+        "correct": true,
+        "tokens": 1093
+      },
+      {
+        "test_index": 1007,
+        "gold": "34",
+        "pred": "34",
+        "correct": true,
+        "tokens": 668
+      },
+      {
+        "test_index": 726,
+        "gold": "10",
+        "pred": "10",
+        "correct": true,
+        "tokens": 952
+      },
+      {
+        "test_index": 721,
+        "gold": "2450",
+        "pred": "2450",
+        "correct": true,
+        "tokens": 1110
+      },
+      {
+        "test_index": 185,
+        "gold": "30",
+        "pred": "30",
+        "correct": true,
+        "tokens": 398
+      },
+      {
+        "test_index": 325,
+        "gold": "224000",
+        "pred": "224000",
+        "correct": true,
+        "tokens": 858
+      },
+      {
+        "test_index": 1204,
+        "gold": "168",
+        "pred": "168",
+        "correct": true,
+        "tokens": 774
+      },
+      {
+        "test_index": 512,
+        "gold": "120",
+        "pred": "120",
+        "correct": true,
+        "tokens": 738
+      },
+      {
+        "test_index": 1240,
+        "gold": "2",
+        "pred": "2",
+        "correct": true,
+        "tokens": 987
+      },
+      {
+        "test_index": 804,
+        "gold": "20",
+        "pred": "20",
+        "correct": true,
+        "tokens": 679
+      },
+      {
+        "test_index": 277,
+        "gold": "4",
+        "pred": "4",
+        "correct": true,
+        "tokens": 710
+      },
+      {
+        "test_index": 784,
+        "gold": "15",
+        "pred": "15",
+        "correct": true,
+        "tokens": 840
+      },
+      {
+        "test_index": 263,
+        "gold": "8",
+        "pred": "8",
+        "correct": true,
+        "tokens": 1003
+      },
+      {
+        "test_index": 571,
+        "gold": "308",
+        "pred": "308",
+        "correct": true,
+        "tokens": 778
+      },
+      {
+        "test_index": 59,
+        "gold": "187",
+        "pred": "187",
+        "correct": true,
+        "tokens": 513
+      },
+      {
+        "test_index": 852,
+        "gold": "123",
+        "pred": "57",
+        "correct": false,
+        "tokens": 844
+      },
+      {
+        "test_index": 1303,
+        "gold": "4",
+        "pred": "4",
+        "correct": true,
+        "tokens": 722
+      },
+      {
+        "test_index": 763,
+        "gold": "100",
+        "pred": "100",
+        "correct": true,
+        "tokens": 899
+      },
+      {
+        "test_index": 829,
+        "gold": "14000",
+        "pred": "14000",
+        "correct": true,
+        "tokens": 814
+      },
+      {
+        "test_index": 515,
+        "gold": "160",
+        "pred": "288",
+        "correct": false,
+        "tokens": 734
+      },
+      {
+        "test_index": 18,
+        "gold": "7",
+        "pred": "7",
+        "correct": true,
+        "tokens": 667
+      },
+      {
+        "test_index": 1097,
+        "gold": "480",
+        "pred": "480",
+        "correct": true,
+        "tokens": 985
+      },
+      {
+        "test_index": 1313,
+        "gold": "2",
+        "pred": "2",
+        "correct": true,
+        "tokens": 799
+      },
+      {
+        "test_index": 354,
+        "gold": "45",
+        "pred": "45",
+        "correct": true,
+        "tokens": 694
+      },
+      {
+        "test_index": 1060,
+        "gold": "31",
+        "pred": "31",
+        "correct": true,
+        "tokens": 825
+      },
+      {
+        "test_index": 210,
+        "gold": "10",
+        "pred": "10",
+        "correct": true,
+        "tokens": 912
+      },
+      {
+        "test_index": 168,
+        "gold": "18",
+        "pred": "18",
+        "correct": true,
+        "tokens": 678
+      },
+      {
+        "test_index": 1185,
+        "gold": "6",
+        "pred": "6",
+        "correct": true,
+        "tokens": 868
+      },
+      {
+        "test_index": 613,
+        "gold": "93000",
+        "pred": "93000",
+        "correct": true,
+        "tokens": 826
+      },
+      {
+        "test_index": 1048,
+        "gold": "7400",
+        "pred": "9860.78",
+        "correct": false,
+        "tokens": 747
+      },
+      {
+        "test_index": 170,
+        "gold": "150",
+        "pred": "150",
+        "correct": true,
+        "tokens": 733
+      },
+      {
+        "test_index": 485,
+        "gold": "220",
+        "pred": "220",
+        "correct": true,
+        "tokens": 783
+      },
+      {
+        "test_index": 790,
+        "gold": "108",
+        "pred": "108",
+        "correct": true,
+        "tokens": 880
+      },
+      {
+        "test_index": 462,
+        "gold": "71",
+        "pred": "71",
+        "correct": true,
+        "tokens": 490
+      },
+      {
+        "test_index": 1002,
+        "gold": "8",
+        "pred": "8",
+        "correct": true,
+        "tokens": 776
+      },
+      {
+        "test_index": 780,
+        "gold": "25",
+        "pred": "25",
+        "correct": true,
+        "tokens": 1110
+      },
+      {
+        "test_index": 667,
+        "gold": "53",
+        "pred": "53",
+        "correct": true,
+        "tokens": 789
+      },
+      {
+        "test_index": 299,
+        "gold": "31800",
+        "pred": "31800",
+        "correct": true,
+        "tokens": 1242
+      },
+      {
+        "test_index": 92,
+        "gold": "4",
+        "pred": "4",
+        "correct": true,
+        "tokens": 741
+      },
+      {
+        "test_index": 1262,
+        "gold": "12",
+        "pred": "12",
+        "correct": true,
+        "tokens": 715
+      },
+      {
+        "test_index": 714,
+        "gold": "10",
+        "pred": "10",
+        "correct": true,
+        "tokens": 738
+      },
+      {
+        "test_index": 702,
+        "gold": "2800",
+        "pred": "2800",
+        "correct": true,
+        "tokens": 1293
+      },
+      {
+        "test_index": 823,
+        "gold": "14",
+        "pred": "18",
+        "correct": false,
+        "tokens": 777
+      },
+      {
+        "test_index": 89,
+        "gold": "24",
+        "pred": "18",
+        "correct": false,
+        "tokens": 826
+      },
+      {
+        "test_index": 1016,
+        "gold": "138",
+        "pred": "139",
+        "correct": false,
+        "tokens": 983
+      },
+      {
+        "test_index": 575,
+        "gold": "36",
+        "pred": "36",
+        "correct": true,
+        "tokens": 755
+      },
+      {
+        "test_index": 988,
+        "gold": "6",
+        "pred": "6",
+        "correct": true,
+        "tokens": 755
+      },
+      {
+        "test_index": 917,
+        "gold": "12",
+        "pred": "12",
+        "correct": true,
+        "tokens": 622
+      },
+      {
+        "test_index": 300,
+        "gold": "78",
+        "pred": "78",
+        "correct": true,
+        "tokens": 839
+      },
+      {
+        "test_index": 294,
+        "gold": "3",
+        "pred": "3",
+        "correct": true,
+        "tokens": 776
+      },
+      {
+        "test_index": 779,
+        "gold": "255",
+        "pred": "255",
+        "correct": true,
+        "tokens": 928
+      },
+      {
+        "test_index": 46,
+        "gold": "163",
+        "pred": "163",
+        "correct": true,
+        "tokens": 790
+      },
+      {
+        "test_index": 1290,
+        "gold": "90",
+        "pred": "90",
+        "correct": true,
+        "tokens": 767
+      },
+      {
+        "test_index": 1218,
+        "gold": "225",
+        "pred": "225",
+        "correct": true,
+        "tokens": 762
+      },
+      {
+        "test_index": 1003,
+        "gold": "480",
+        "pred": "480",
+        "correct": true,
+        "tokens": 829
+      },
+      {
+        "test_index": 950,
+        "gold": "5",
+        "pred": "5",
+        "correct": true,
+        "tokens": 750
+      },
+      {
+        "test_index": 221,
+        "gold": "90",
+        "pred": "90",
+        "correct": true,
+        "tokens": 757
+      },
+      {
+        "test_index": 605,
+        "gold": "42",
+        "pred": "42",
+        "correct": true,
+        "tokens": 729
+      },
+      {
+        "test_index": 1076,
+        "gold": "162",
+        "pred": "162",
+        "correct": true,
+        "tokens": 645
+      },
+      {
+        "test_index": 803,
+        "gold": "9",
+        "pred": "9",
+        "correct": true,
+        "tokens": 872
+      },
+      {
+        "test_index": 494,
+        "gold": "21",
+        "pred": "53",
+        "correct": false,
+        "tokens": 850
+      },
+      {
+        "test_index": 252,
+        "gold": "73",
+        "pred": "73",
+        "correct": true,
+        "tokens": 819
+      },
+      {
+        "test_index": 857,
+        "gold": "14000",
+        "pred": "14000",
+        "correct": true,
+        "tokens": 1131
+      },
+      {
+        "test_index": 256,
+        "gold": "45",
+        "pred": "45",
+        "correct": true,
+        "tokens": 823
+      },
+      {
+        "test_index": 1045,
+        "gold": "420",
+        "pred": "420",
+        "correct": true,
+        "tokens": 647
+      },
+      {
+        "test_index": 1256,
+        "gold": "15",
+        "pred": "15",
+        "correct": true,
+        "tokens": 1021
+      },
+      {
+        "test_index": 1254,
+        "gold": "30",
+        "pred": "30",
+        "correct": true,
+        "tokens": 822
+      },
+      {
+        "test_index": 239,
+        "gold": "280",
+        "pred": "280",
+        "correct": true,
+        "tokens": 909
+      },
+      {
+        "test_index": 733,
+        "gold": "5",
+        "pred": "5",
+        "correct": true,
+        "tokens": 521
+      },
+      {
+        "test_index": 700,
+        "gold": "135",
+        "pred": "135",
+        "correct": true,
+        "tokens": 952
+      },
+      {
+        "test_index": 381,
+        "gold": "67",
+        "pred": "67",
+        "correct": true,
+        "tokens": 642
+      },
+      {
+        "test_index": 822,
+        "gold": "1260",
+        "pred": "1260",
+        "correct": true,
+        "tokens": 638
+      },
+      {
+        "test_index": 386,
+        "gold": "80",
+        "pred": "80",
+        "correct": true,
+        "tokens": 615
+      },
+      {
+        "test_index": 157,
+        "gold": "80",
+        "pred": "80",
+        "correct": true,
+        "tokens": 940
+      },
+      {
+        "test_index": 84,
+        "gold": "15",
+        "pred": "15",
+        "correct": true,
+        "tokens": 778
+      },
+      {
+        "test_index": 1174,
+        "gold": "240",
+        "pred": "240",
+        "correct": true,
+        "tokens": 920
+      },
+      {
+        "test_index": 376,
+        "gold": "15",
+        "pred": "15",
+        "correct": true,
+        "tokens": 779
+      },
+      {
+        "test_index": 72,
+        "gold": "221",
+        "pred": "221",
+        "correct": true,
+        "tokens": 661
+      },
+      {
+        "test_index": 1106,
+        "gold": "5",
+        "pred": "5",
+        "correct": true,
+        "tokens": 640
+      },
+      {
+        "test_index": 960,
+        "gold": "11",
+        "pred": "11",
+        "correct": true,
+        "tokens": 1128
+      },
+      {
+        "test_index": 331,
+        "gold": "8400",
+        "pred": "8400",
+        "correct": true,
+        "tokens": 1062
+      },
+      {
+        "test_index": 419,
+        "gold": "3000",
+        "pred": "3000",
+        "correct": true,
+        "tokens": 829
+      },
+      {
+        "test_index": 1283,
+        "gold": "60",
+        "pred": "60",
+        "correct": true,
+        "tokens": 706
+      },
+      {
+        "test_index": 1006,
+        "gold": "826",
+        "pred": "826",
+        "correct": true,
+        "tokens": 884
+      },
+      {
+        "test_index": 1181,
+        "gold": "20",
+        "pred": "20",
+        "correct": true,
+        "tokens": 767
+      },
+      {
+        "test_index": 101,
+        "gold": "6",
+        "pred": "6",
+        "correct": true,
+        "tokens": 770
+      },
+      {
+        "test_index": 1027,
+        "gold": "12",
+        "pred": "12",
+        "correct": true,
+        "tokens": 893
+      },
+      {
+        "test_index": 893,
+        "gold": "480",
+        "pred": "480",
+        "correct": true,
+        "tokens": 738
+      },
+      {
+        "test_index": 401,
+        "gold": "14400",
+        "pred": "14400",
+        "correct": true,
+        "tokens": 846
+      },
+      {
+        "test_index": 659,
+        "gold": "3",
+        "pred": "3",
+        "correct": true,
+        "tokens": 1213
+      },
+      {
+        "test_index": 1058,
+        "gold": "250",
+        "pred": "250",
+        "correct": true,
+        "tokens": 608
+      },
+      {
+        "test_index": 708,
+        "gold": "168",
+        "pred": "168",
+        "correct": true,
+        "tokens": 854
+      },
+      {
+        "test_index": 935,
+        "gold": "64800",
+        "pred": "64800",
+        "correct": true,
+        "tokens": 1124
+      },
+      {
+        "test_index": 508,
+        "gold": "120",
+        "pred": "120",
+        "correct": true,
+        "tokens": 808
+      },
+      {
+        "test_index": 1095,
+        "gold": "270",
+        "pred": "270",
+        "correct": true,
+        "tokens": 624
+      },
+      {
+        "test_index": 482,
+        "gold": "26",
+        "pred": "26",
+        "correct": true,
+        "tokens": 732
+      },
+      {
+        "test_index": 361,
+        "gold": "20",
+        "pred": "20",
+        "correct": true,
+        "tokens": 960
+      },
+      {
+        "test_index": 147,
+        "gold": "75",
+        "pred": "75",
+        "correct": true,
+        "tokens": 1005
+      },
+      {
+        "test_index": 1041,
+        "gold": "101",
+        "pred": "101",
+        "correct": true,
+        "tokens": 1038
+      },
+      {
+        "test_index": 16,
+        "gold": "230",
+        "pred": "230",
+        "correct": true,
+        "tokens": 698
+      },
+      {
+        "test_index": 624,
+        "gold": "85",
+        "pred": "85",
+        "correct": true,
+        "tokens": 688
+      },
+      {
+        "test_index": 711,
+        "gold": "6",
+        "pred": "6",
+        "correct": true,
+        "tokens": 840
+      },
+      {
+        "test_index": 304,
+        "gold": "3200",
+        "pred": "3200",
+        "correct": true,
+        "tokens": 806
+      },
+      {
+        "test_index": 513,
+        "gold": "300",
+        "pred": "300",
+        "correct": true,
+        "tokens": 712
+      },
+      {
+        "test_index": 1228,
+        "gold": "31",
+        "pred": "31",
+        "correct": true,
+        "tokens": 641
+      },
+      {
+        "test_index": 1282,
+        "gold": "12",
+        "pred": "12",
+        "correct": true,
+        "tokens": 833
+      },
+      {
+        "test_index": 1001,
+        "gold": "2",
+        "pred": "14",
+        "correct": false,
+        "tokens": 1046
+      },
+      {
+        "test_index": 396,
+        "gold": "3",
+        "pred": "3",
+        "correct": true,
+        "tokens": 905
+      },
+      {
+        "test_index": 38,
+        "gold": "10",
+        "pred": "10",
+        "correct": true,
+        "tokens": 743
+      },
+      {
+        "test_index": 560,
+        "gold": "45",
+        "pred": "45",
+        "correct": true,
+        "tokens": 680
+      },
+      {
+        "test_index": 1028,
+        "gold": "200",
+        "pred": "200",
+        "correct": true,
+        "tokens": 788
+      },
+      {
+        "test_index": 122,
+        "gold": "48",
+        "pred": "40",
+        "correct": false,
+        "tokens": 993
+      },
+      {
+        "test_index": 80,
+        "gold": "10",
+        "pred": "10",
+        "correct": true,
+        "tokens": 673
+      },
+      {
+        "test_index": 739,
+        "gold": "98",
+        "pred": "98",
+        "correct": true,
+        "tokens": 716
+      },
+      {
+        "test_index": 1169,
+        "gold": "2",
+        "pred": "2",
+        "correct": true,
+        "tokens": 921
+      },
+      {
+        "test_index": 1017,
+        "gold": "45",
+        "pred": "27",
+        "correct": false,
+        "tokens": 878
+      },
+      {
+        "test_index": 912,
+        "gold": "6",
+        "pred": "6",
+        "correct": true,
+        "tokens": 774
+      },
+      {
+        "test_index": 320,
+        "gold": "8",
+        "pred": "8",
+        "correct": true,
+        "tokens": 966
+      },
+      {
+        "test_index": 991,
+        "gold": "15",
+        "pred": "30",
+        "correct": false,
+        "tokens": 960
+      },
+      {
+        "test_index": 557,
+        "gold": "70",
+        "pred": "70",
+        "correct": true,
+        "tokens": 579
+      },
+      {
+        "test_index": 50,
+        "gold": "294",
+        "pred": "294",
+        "correct": true,
+        "tokens": 710
+      },
+      {
+        "test_index": 1227,
+        "gold": "66",
+        "pred": "66",
+        "correct": true,
+        "tokens": 709
+      },
+      {
+        "test_index": 872,
+        "gold": "13",
+        "pred": "13",
+        "correct": true,
+        "tokens": 721
+      },
+      {
+        "test_index": 1081,
+        "gold": "195",
+        "pred": "195",
+        "correct": true,
+        "tokens": 636
+      },
+      {
+        "test_index": 755,
+        "gold": "7",
+        "pred": "7",
+        "correct": true,
+        "tokens": 667
+      },
+      {
+        "test_index": 1009,
+        "gold": "1875",
+        "pred": "1875",
+        "correct": true,
+        "tokens": 1115
+      },
+      {
+        "test_index": 715,
+        "gold": "385000",
+        "pred": "385000",
+        "correct": true,
+        "tokens": 600
+      },
+      {
+        "test_index": 762,
+        "gold": "85",
+        "pred": "85",
+        "correct": true,
+        "tokens": 747
+      },
+      {
+        "test_index": 697,
+        "gold": "27",
+        "pred": "27",
+        "correct": true,
+        "tokens": 688
+      },
+      {
+        "test_index": 937,
+        "gold": "159",
+        "pred": "159",
+        "correct": true,
+        "tokens": 1023
+      },
+      {
+        "test_index": 883,
+        "gold": "25",
+        "pred": "25",
+        "correct": true,
+        "tokens": 717
+      },
+      {
+        "test_index": 820,
+        "gold": "720",
+        "pred": "720",
+        "correct": true,
+        "tokens": 629
+      },
+      {
+        "test_index": 831,
+        "gold": "324",
+        "pred": "324",
+        "correct": true,
+        "tokens": 973
+      },
+      {
+        "test_index": 959,
+        "gold": "7",
+        "pred": "7",
+        "correct": true,
+        "tokens": 843
+      },
+      {
+        "test_index": 397,
+        "gold": "25",
+        "pred": "25",
+        "correct": true,
+        "tokens": 624
+      },
+      {
+        "test_index": 115,
+        "gold": "90",
+        "pred": "90",
+        "correct": true,
+        "tokens": 948
+      },
+      {
+        "test_index": 839,
+        "gold": "2",
+        "pred": "2",
+        "correct": true,
+        "tokens": 779
+      },
+      {
+        "test_index": 404,
+        "gold": "22",
+        "pred": "22",
+        "correct": true,
+        "tokens": 765
+      },
+      {
+        "test_index": 483,
+        "gold": "40",
+        "pred": "40",
+        "correct": true,
+        "tokens": 896
+      },
+      {
+        "test_index": 310,
+        "gold": "2050",
+        "pred": "2050",
+        "correct": true,
+        "tokens": 814
+      },
+      {
+        "test_index": 213,
+        "gold": "250",
+        "pred": "250",
+        "correct": true,
+        "tokens": 761
+      },
+      {
+        "test_index": 880,
+        "gold": "10",
+        "pred": "10",
+        "correct": true,
+        "tokens": 777
+      },
+      {
+        "test_index": 1021,
+        "gold": "36",
+        "pred": "36",
+        "correct": true,
+        "tokens": 843
+      },
+      {
+        "test_index": 60,
+        "gold": "17",
+        "pred": "17",
+        "correct": true,
+        "tokens": 688
+      },
+      {
+        "test_index": 809,
+        "gold": "50",
+        "pred": "50",
+        "correct": true,
+        "tokens": 781
+      },
+      {
+        "test_index": 1131,
+        "gold": "96",
+        "pred": "96",
+        "correct": true,
+        "tokens": 726
+      },
+      {
+        "test_index": 155,
+        "gold": "280",
+        "pred": "280",
+        "correct": true,
+        "tokens": 936
+      },
+      {
+        "test_index": 979,
+        "gold": "50",
+        "pred": "50",
+        "correct": true,
+        "tokens": 1073
+      },
+      {
+        "test_index": 786,
+        "gold": "142",
+        "pred": "142",
+        "correct": true,
+        "tokens": 667
+      },
+      {
+        "test_index": 76,
+        "gold": "5",
+        "pred": "5",
+        "correct": true,
+        "tokens": 1077
+      },
+      {
+        "test_index": 1065,
+        "gold": "95",
+        "pred": "95",
+        "correct": true,
+        "tokens": 767
+      },
+      {
+        "test_index": 719,
+        "gold": "175",
+        "pred": "175",
+        "correct": true,
+        "tokens": 750
+      },
+      {
+        "test_index": 975,
+        "gold": "20",
+        "pred": "20",
+        "correct": true,
+        "tokens": 679
+      },
+      {
+        "test_index": 1051,
+        "gold": "15",
+        "pred": "15",
+        "correct": true,
+        "tokens": 675
+      },
+      {
+        "test_index": 295,
+        "gold": "370",
+        "pred": "370",
+        "correct": true,
+        "tokens": 883
+      },
+      {
+        "test_index": 37,
+        "gold": "2",
+        "pred": "0",
+        "correct": false,
+        "tokens": 676
+      },
+      {
+        "test_index": 459,
+        "gold": "2",
+        "pred": "2",
+        "correct": true,
+        "tokens": 1454
+      },
+      {
+        "test_index": 205,
+        "gold": "98",
+        "pred": "98",
+        "correct": true,
+        "tokens": 1017
+      },
+      {
+        "test_index": 33,
+        "gold": "70",
+        "pred": "70",
+        "correct": true,
+        "tokens": 666
+      },
+      {
+        "test_index": 420,
+        "gold": "17000",
+        "pred": "17000",
+        "correct": true,
+        "tokens": 736
+      },
+      {
+        "test_index": 58,
+        "gold": "57",
+        "pred": "57",
+        "correct": true,
+        "tokens": 1338
+      },
+      {
+        "test_index": 603,
+        "gold": "1800",
+        "pred": "1260",
+        "correct": false,
+        "tokens": 723
+      },
+      {
+        "test_index": 816,
+        "gold": "4500",
+        "pred": "4500",
+        "correct": true,
+        "tokens": 949
+      },
+      {
+        "test_index": 602,
+        "gold": "5",
+        "pred": "5",
+        "correct": true,
+        "tokens": 467
+      },
+      {
+        "test_index": 665,
+        "gold": "360",
+        "pred": "360",
+        "correct": true,
+        "tokens": 686
+      },
+      {
+        "test_index": 1159,
+        "gold": "50",
+        "pred": "50",
+        "correct": true,
+        "tokens": 1007
+      },
+      {
+        "test_index": 174,
+        "gold": "95",
+        "pred": "95",
+        "correct": true,
+        "tokens": 780
+      },
+      {
+        "test_index": 654,
+        "gold": "2",
+        "pred": "2",
+        "correct": true,
+        "tokens": 815
+      },
+      {
+        "test_index": 1042,
+        "gold": "3",
+        "pred": "7.17",
+        "correct": false,
+        "tokens": 982
+      },
+      {
+        "test_index": 690,
+        "gold": "5760",
+        "pred": "3360",
+        "correct": false,
+        "tokens": 706
+      },
+      {
+        "test_index": 1121,
+        "gold": "35",
+        "pred": "35",
+        "correct": true,
+        "tokens": 874
+      },
+      {
+        "test_index": 782,
+        "gold": "54",
+        "pred": "27",
+        "correct": false,
+        "tokens": 816
+      },
+      {
+        "test_index": 662,
+        "gold": "7",
+        "pred": "7",
+        "correct": true,
+        "tokens": 783
+      },
+      {
+        "test_index": 860,
+        "gold": "3",
+        "pred": "3",
+        "correct": true,
+        "tokens": 662
+      },
+      {
+        "test_index": 963,
+        "gold": "147",
+        "pred": "147",
+        "correct": true,
+        "tokens": 801
+      },
+      {
+        "test_index": 1120,
+        "gold": "560",
+        "pred": "560",
+        "correct": true,
+        "tokens": 781
+      },
+      {
+        "test_index": 385,
+        "gold": "16",
+        "pred": "16",
+        "correct": true,
+        "tokens": 670
+      },
+      {
+        "test_index": 842,
+        "gold": "10",
+        "pred": "10",
+        "correct": true,
+        "tokens": 561
+      },
+      {
+        "test_index": 1289,
+        "gold": "101",
+        "pred": "101",
+        "correct": true,
+        "tokens": 758
+      },
+      {
+        "test_index": 1087,
+        "gold": "12",
+        "pred": "12",
+        "correct": true,
+        "tokens": 940
+      },
+      {
+        "test_index": 1015,
+        "gold": "78",
+        "pred": "78",
+        "correct": true,
+        "tokens": 900
+      },
+      {
+        "test_index": 149,
+        "gold": "16",
+        "pred": "16",
+        "correct": true,
+        "tokens": 610
+      },
+      {
+        "test_index": 699,
+        "gold": "8",
+        "pred": "8",
+        "correct": true,
+        "tokens": 552
+      },
+      {
+        "test_index": 1084,
+        "gold": "20",
+        "pred": "20",
+        "correct": true,
+        "tokens": 800
+      },
+      {
+        "test_index": 1192,
+        "gold": "280",
+        "pred": "280",
+        "correct": true,
+        "tokens": 1028
+      },
+      {
+        "test_index": 1046,
+        "gold": "189",
+        "pred": "1.96875",
+        "correct": false,
+        "tokens": 653
+      },
+      {
+        "test_index": 1123,
+        "gold": "105",
+        "pred": "105",
+        "correct": true,
+        "tokens": 573
+      },
+      {
+        "test_index": 903,
+        "gold": "16",
+        "pred": "16",
+        "correct": true,
+        "tokens": 909
+      },
+      {
+        "test_index": 913,
+        "gold": "6",
+        "pred": "6",
+        "correct": true,
+        "tokens": 730
+      },
+      {
+        "test_index": 7,
+        "gold": "160",
+        "pred": "160",
+        "correct": true,
+        "tokens": 873
+      },
+      {
+        "test_index": 716,
+        "gold": "770",
+        "pred": "770",
+        "correct": true,
+        "tokens": 706
+      },
+      {
+        "test_index": 91,
+        "gold": "28",
+        "pred": "28",
+        "correct": true,
+        "tokens": 669
+      },
+      {
+        "test_index": 184,
+        "gold": "25",
+        "pred": "25",
+        "correct": true,
+        "tokens": 1028
+      },
+      {
+        "test_index": 1050,
+        "gold": "655",
+        "pred": "655",
+        "correct": true,
+        "tokens": 895
+      },
+      {
+        "test_index": 1053,
+        "gold": "55",
+        "pred": "55",
+        "correct": true,
+        "tokens": 1012
+      },
+      {
+        "test_index": 99,
+        "gold": "58",
+        "pred": "58",
+        "correct": true,
+        "tokens": 808
+      },
+      {
+        "test_index": 426,
+        "gold": "11",
+        "pred": "11",
+        "correct": true,
+        "tokens": 852
+      },
+      {
+        "test_index": 1162,
+        "gold": "3",
+        "pred": "3",
+        "correct": true,
+        "tokens": 471
+      },
+      {
+        "test_index": 144,
+        "gold": "20",
+        "pred": "20",
+        "correct": true,
+        "tokens": 1033
+      },
+      {
+        "test_index": 660,
+        "gold": "15",
+        "pred": "15",
+        "correct": true,
+        "tokens": 893
+      },
+      {
+        "test_index": 951,
+        "gold": "300",
+        "pred": "150",
+        "correct": false,
+        "tokens": 653
+      },
+      {
+        "test_index": 1276,
+        "gold": "70",
+        "pred": "70",
+        "correct": true,
+        "tokens": 1005
+      },
+      {
+        "test_index": 520,
+        "gold": "63",
+        "pred": "63",
+        "correct": true,
+        "tokens": 1023
+      },
+      {
+        "test_index": 1066,
+        "gold": "14",
+        "pred": "14",
+        "correct": true,
+        "tokens": 906
+      },
+      {
+        "test_index": 684,
+        "gold": "11",
+        "pred": "11",
+        "correct": true,
+        "tokens": 829
+      },
+      {
+        "test_index": 825,
+        "gold": "153",
+        "pred": "153",
+        "correct": true,
+        "tokens": 952
+      },
+      {
+        "test_index": 933,
+        "gold": "15",
+        "pred": "15",
+        "correct": true,
+        "tokens": 705
+      },
+      {
+        "test_index": 1077,
+        "gold": "145",
+        "pred": "145",
+        "correct": true,
+        "tokens": 1054
+      },
+      {
+        "test_index": 568,
+        "gold": "175",
+        "pred": "175",
+        "correct": true,
+        "tokens": 833
+      },
+      {
+        "test_index": 962,
+        "gold": "1000",
+        "pred": "600",
+        "correct": false,
+        "tokens": 674
+      },
+      {
+        "test_index": 1216,
+        "gold": "20",
+        "pred": "20",
+        "correct": true,
+        "tokens": 878
+      },
+      {
+        "test_index": 390,
+        "gold": "12",
+        "pred": "12",
+        "correct": true,
+        "tokens": 641
+      },
+      {
+        "test_index": 732,
+        "gold": "87",
+        "pred": "87",
+        "correct": true,
+        "tokens": 703
+      },
+      {
+        "test_index": 554,
+        "gold": "54",
+        "pred": "54",
+        "correct": true,
+        "tokens": 963
+      },
+      {
+        "test_index": 1047,
+        "gold": "10",
+        "pred": "10",
+        "correct": true,
+        "tokens": 1101
+      },
+      {
+        "test_index": 503,
+        "gold": "18",
+        "pred": "18",
+        "correct": true,
+        "tokens": 765
+      }
+    ]
+  }
+}

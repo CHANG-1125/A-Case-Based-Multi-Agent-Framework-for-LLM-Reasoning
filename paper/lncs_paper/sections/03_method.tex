@@ -1,0 +1,109 @@
+\section{The Proposed Case-Based Multi-Agent Framework}
+
+To address the limitations of single-agent LLM reasoning and static prompt-only pipelines, we propose a framework that integrates the CBR paradigm with a multi-agent debate architecture. The framework explicitly maps the 4R cycle (Retrieve, Reuse, Revise, Retain) to a dynamic LLM workflow.
+
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.92\linewidth]{figures/fig_framework_architecture.png}
+  \caption{Overall architecture of the proposed case-based multi-agent framework with adaptive routing between standard RAG and debate-based revision.}
+  \label{fig:framework_architecture}
+\end{figure}
+
+\subsection{System Overview}
+Let the target mathematical problem be $q$. The system maintains a dynamic case base
+\[
+\mathcal{B}=\{(p_i, s_i)\}_{i=1}^{N},
+\]
+where each tuple contains a historical problem $p_i$ and its verified step-by-step solution $s_i$. Given $q$, the framework executes four sequential phases: Retrieve semantic anchors, Reuse them for initial generation, Revise via multi-agent reflection, and Retain verified new experience.
+
+\subsection{Retrieve: Semantic Case Matching}
+For a new query $q$, we encode both $q$ and each historical problem $p_i$ into a dense vector space using a sentence embedding model. Similarity is computed by cosine similarity:
+\[
+\mathrm{sim}(q,p_i)=\frac{\mathbf{e}(q)\cdot\mathbf{e}(p_i)}{\|\mathbf{e}(q)\|\|\mathbf{e}(p_i)\|}.
+\]
+The top-$K$ most similar cases form the retrieved subset
+\[
+\mathcal{R}_K(q)\subseteq\mathcal{B},
+\]
+which is used as contextual evidence for downstream reasoning. We write retrieval as
+\[
+\mathcal{R}_K(q)=\operatorname{TopK}_{(p_i,s_i)\in\mathcal{B}}\ \mathrm{sim}(q,p_i).
+\]
+
+\subsection{Reuse: Few-Shot Generation}
+The Generator agent receives $\mathcal{R}_K(q)$ as few-shot exemplars and produces an initial candidate solution $\tilde{s}$ for problem $q$. This stage mimics analogical human reasoning: previously solved, structurally similar cases are reused as templates for a new task.
+
+\subsection{Revise: Multi-Agent Debate and Reflection}
+The Revise stage is implemented by two specialized agents:
+\begin{itemize}
+  \item \textbf{Critic Agent}: takes $(q,\tilde{s})$ and outputs a structured critique $c$, focusing on arithmetic errors, logical gaps, and hallucinated steps.
+  \item \textbf{Judge Agent}: takes $(q,\tilde{s},c)$ and synthesizes the final corrected output $\hat{s}$.
+\end{itemize}
+This interaction provides explicit reflection before finalization, reducing error propagation from single-pass generation.
+The final revise-stage answer can be expressed as a gated decision function:
+\[
+\hat{y}_{\text{rev}} = g\!\left(c,\hat{y}_G,\hat{y}_J,\hat{y}_{J2}\right),
+\]
+where $\hat{y}_G$ is the Generator prediction, $\hat{y}_J$ is the Judge prediction, and $\hat{y}_{J2}$ is an optional second-Judge prediction used for consensus constraints.
+
+\subsection{Post-hoc Routing Objective}
+Given trace features $\phi(x)$, the selector outputs
+\[
+s(x)=\mathbb{I}\!\left(f_\theta(\phi(x))>\tau\right),
+\]
+and routes predictions as
+\[
+\hat{y}(x)=
+\begin{cases}
+\hat{y}_{\text{ours}}(x), & s(x)=1,\\
+\hat{y}_{\text{rag}}(x), & s(x)=0.
+\end{cases}
+\]
+The selector is trained with binary cross-entropy:
+\[
+\mathcal{L}_{\text{sel}}(\theta)=
+-\frac{1}{N}\sum_{i=1}^{N}
+\left[
+z_i\log \sigma\!\left(f_\theta(\phi(x_i))\right)
++(1-z_i)\log\!\left(1-\sigma\!\left(f_\theta(\phi(x_i))\right)\right)
+\right],
+\]
+where $z_i\in\{0,1\}$ indicates whether routing to the multi-agent branch is preferred.
+This selector is a post-hoc deployment layer rather than a core component of the 4R loop; its empirical behavior is analyzed in Section~5.3.
+
+\subsection{Retain: Dynamic Memory Update}
+If the final answer in $\hat{s}$ is verified as correct (e.g., exact match with reference answer in evaluation or a trusted verification condition), the new tuple $(q,\hat{s})$ is appended to $\mathcal{B}$. This design enables continual memory growth and potentially improved future retrieval quality; however, long-horizon gains from retain are not isolated in the current 500-instance protocol.
+
+\subsection{Algorithm Summary}
+Algorithm~\ref{alg:cbr_mas_4r} summarizes the full execution flow of the proposed 4R framework.
+
+\begin{algorithm}[H]
+\caption{Case-Based Multi-Agent Reasoning (4R Cycle)}
+\label{alg:cbr_mas_4r}
+\KwIn{New problem $q$; initial case base $\mathcal{B}$; top-$K$ retrieval parameter; maximum debate iterations $T$}
+\KwOut{Final verified solution $\hat{s}$; updated case base $\mathcal{B}'$}
+
+\tcp{Phase 1: Retrieve}
+Compute embeddings for $q$ and all $p_i$ in $\mathcal{B}$\;
+Retrieve $\mathcal{R}_K(q)=\mathrm{TopK}_{(p_i,s_i)\in\mathcal{B}}~\mathrm{sim}(q,p_i)$\;
+
+\tcp{Phase 2: Reuse}
+$\tilde{s}\leftarrow \mathrm{Generator}(q,\mathcal{R}_K(q))$\;
+
+\tcp{Phase 3: Revise (Multi-Agent Debate)}
+$c\leftarrow \mathrm{Critic}(q,\tilde{s})$\;
+\eIf{$c$ indicates ``no critical error''}{
+  $\hat{s}\leftarrow \tilde{s}$\;
+}{
+  $\hat{s}\leftarrow \mathrm{Judge}(q,\tilde{s},c,T)$\;
+}
+
+\tcp{Phase 4: Retain}
+\eIf{$\mathrm{Verify}(\hat{s})=\mathrm{True}$}{
+  $\mathcal{B}'\leftarrow \mathcal{B}\cup\{(q,\hat{s})\}$\;
+}{
+  $\mathcal{B}'\leftarrow \mathcal{B}$\;
+}
+
+\Return{$(\hat{s},\mathcal{B}')$}\;
+\end{algorithm}

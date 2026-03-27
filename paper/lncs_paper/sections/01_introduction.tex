@@ -1,0 +1,16 @@
+\section{Introduction}
+
+In recent years, Large Language Models (LLMs) have demonstrated unprecedented capabilities across a wide range of natural language processing tasks~\cite{zhao2023survey}. Their potential has increasingly been explored in domains requiring complex, multi-step deduction, such as mathematical reasoning. Despite this progress, state-of-the-art LLMs still suffer from reliability issues. When confronted with intricate math problems, they may produce hallucinations~\cite{ji2023hallucination} and logically inconsistent intermediate steps. These failures are closely related to the autoregressive generation process, where tokens are produced sequentially without an intrinsic mechanism to verify or backtrack reasoning trajectories in a single pass.
+
+To mitigate such failures, existing methods mainly rely on prompt engineering or single-agent generation. Even with Retrieval-Augmented Generation (RAG)~\cite{lewis2020rag}, the core limitation remains: conventional RAG strengthens knowledge access but does not explicitly support reasoning correction once generation starts. In short, it helps find relevant prior knowledge but does not reliably revise arithmetic or logical errors in intermediate reasoning.
+
+To bridge this gap, we draw inspiration from Case-Based Reasoning (CBR), whose classical 4R cycle consists of Retrieve, Reuse, Revise, and Retain~\cite{aamodt1994cbr}. Historically, the Revise stage has been the key bottleneck due to brittle, manually designed adaptation rules. Recent multi-agent LLM architectures~\cite{wu2023autogen} provide a new opportunity: role-specialized agents can emulate collaborative deliberation, turning revision from a rigid rule pipeline into an interactive reflection process.
+
+Motivated by this synergy, we propose a framework that integrates structured CBR memory with multi-agent reasoning. For each new query, the system retrieves similar historical cases and reuses them as contextual anchors. It then performs a revise stage through interaction among three agents (Generator, Critic, and Judge), and finally retains verified solutions to continually improve memory quality.
+
+The main contributions of this paper are:
+\begin{itemize}
+  \item We propose an integrated architecture that unifies the CBR 4R cycle with LLM multi-agent reasoning, introducing explicit long-term case memory into the reasoning loop.
+  \item We operationalize autonomous revision via a Generator--Critic--Judge triad, which detects and corrects intermediate logical and calculation errors without human intervention.
+  \item We provide empirical evidence on a 500-instance GSM8K subset, showing an important cost--performance trade-off: blanket debate can cause negative transfer, while an adaptive Learned Selector matches a strong RAG baseline (92.6\%) and reveals a 95.0\% oracle upper bound.
+\end{itemize}
