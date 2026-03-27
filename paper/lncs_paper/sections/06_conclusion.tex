@@ -1,8 +1,0 @@
-\section{Conclusion and Future Work}
-In this paper, we presented a framework that revitalizes classical Case-Based Reasoning (CBR) by integrating it with an LLM-driven multi-agent architecture. By explicitly mapping the 4R cycle (Retrieve, Reuse, Revise, Retain) into a dynamic reasoning workflow, the framework introduces a structured episodic-memory mechanism that most existing multi-agent systems do not explicitly maintain. A key contribution is the operationalization of the traditionally difficult Revise phase through autonomous interaction among Generator, Critic, and Judge agents.
-
-Empirical results on GSM8K reveal a clear cost--performance trade-off. Blanket multi-agent debate is computationally expensive and can occasionally induce echo-chamber effects, while adaptive routing with a Learned Selector matches a strong RAG baseline (92.6\%) and reduces unnecessary token usage. The Oracle upper bound (95.0\%) further indicates substantial untapped gains from better routing between retrieval-only and debate-enhanced reasoning paths.
-
-A key validity limitation is that current evidence is based on a 500-instance subset and a single backbone model (\texttt{gpt-4o-mini}); broader multi-model and full-test evaluations remain future work.
-
-Future work will focus on narrowing the gap between the deployable Learned Selector and the Oracle bound through richer confidence features and uncertainty-aware signals. We also plan to move from a flat vector case base to a structured case graph that captures deeper relational and causal dependencies between reasoning steps. Finally, we will investigate heterogeneous agent collaboration (e.g., neural LLMs with symbolic solvers) to strengthen revise-stage reliability and reduce systematic blind spots.
